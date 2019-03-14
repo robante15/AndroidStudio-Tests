@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_operar">operar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="txt_titulo">Ingrese el valor entero a convertir</string>
+    <string name="txt_sunumero">Su numero convertido a Texto es</string>
+    <string name="txt_resultado">Resultado</string>
+</resources>

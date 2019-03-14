@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Conversor de Distancia</string>
+    <string name="str_distancia">Distancia:</string>
+    <string name="str_mil2km">Millas a Kilometros</string>
+    <string name="str_km2mil">Kilometros a Millas</string>
+    <string name="str_resultado">Resultado:</string>
+    <string name="str_limpiar">Limpiar</string>
+    <string name="str_convertir">Convertir</string>
+    <string name="str_salir">Salir</string>
+</resources>

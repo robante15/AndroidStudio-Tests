@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnteroAString</string>
+    <string name="lbl_LeyendaPrincipal">Ingrese el numero a convertir</string>
+    <string name="str_calcular">Calcular</string>
+    <string name="str_limpiar">Limpiar</string>
+    <string name="str_salir">Salir</string>
+</resources>

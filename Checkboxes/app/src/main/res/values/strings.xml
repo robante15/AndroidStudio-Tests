@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Checkboxes</string>
+    <string name="str_valor">Valor</string>
+    <string name="str_sumar">Sumar</string>
+    <string name="str_restar">Restar</string>
+    <string name="str_multiplicar">Multiplicar</string>
+    <string name="str_dividir">Dividir</string>
+    <string name="str_operar">Operar</string>
+    <string name="str_salir">Salir</string>
+    <string name="str_ResSuma">Suma:</string>
+    <string name="str_ResResta">Resta: </string>
+    <string name="str_ResMultipl">Multiplicación:</string>
+    <string name="str_Divisi">División:</string>
+    <string name="str_limpiar">Limpiar</string>
+</resources>

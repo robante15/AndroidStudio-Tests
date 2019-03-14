@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Area</string>
+    <string name="presentacion">Calculo de Area</string>
+    <string name="lbl_titulo">Area de un circulo</string>
+    <string name="lbl_diametro">Diametro del circulo</string>
+    <string name="bnt_calcular">Calcular</string>
+    <string name="lbl_resultado">El area del ciculo es:</string>
+</resources>

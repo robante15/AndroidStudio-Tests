@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RomanConverter</string>
+    <string name="str_ingreseValor">Ingrese un numero entero</string>
+    <string name="str_salir">Salir</string>
+    <string name="str_limpiar">Limpiar</string>
+    <string name="str_convertir">Convertir</string>
+    <string name="str_resultado"></string>
+    <string name="str_resultadoRoman"></string>
+</resources>

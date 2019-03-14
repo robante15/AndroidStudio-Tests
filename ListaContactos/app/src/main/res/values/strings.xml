@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaContactos</string>
+    <string name="str_listarContactos">Cargar contactos</string>
+    <string name="str_salir">Salir</string>
+</resources>
