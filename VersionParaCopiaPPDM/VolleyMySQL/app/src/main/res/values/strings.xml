@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catalogo Productos</string>
+    <string name="str_titulo">Listado de productos</string>
+    <string name="str_online">Online</string>
+    <string name="str_local">Local</string>
+    <string name="str_descripcionImg">Imagen del producto</string>
+    <string name="str_tituloLocal">Listado de productos (Local)</string>
+</resources>

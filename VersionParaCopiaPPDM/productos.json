@@ -1,0 +1,4586 @@
+[
+    {
+        "id": 1,
+        "descripcion": "BATERIAS AAA",
+        "barcode": "6933237801789",
+        "costo": 0.092,
+        "precio": 0.12,
+        "image": "img\/productos\/15b798ff8e6a2686a1b5d80f546eec97.jpg"
+    },
+    {
+        "id": 2,
+        "descripcion": "LAMPARA RECARGABLE SUSAN 4 LED SULI004",
+        "barcode": "7404005960780",
+        "costo": 2.875,
+        "precio": 3.23,
+        "image": "img\/productos\/89d8c37e68aac7ca9fcf7c1820a0c4cc.jpg"
+    },
+    {
+        "id": 3,
+        "descripcion": "LAMPARA DE FRENTE JINLIDA 1597",
+        "barcode": "6932512159713",
+        "costo": 1.84,
+        "precio": 2.35,
+        "image": "img\/productos\/a026d517821cd8530602cf479a3ba706.jpg"
+    },
+    {
+        "id": 4,
+        "descripcion": "LAMPARA DE MANO VARIOS FOCOS JA-1958",
+        "barcode": "6485741785975",
+        "costo": 3.542,
+        "precio": 4.69,
+        "image": "img\/productos\/78244442260132b40f5deea9230dadb1.jpg"
+    },
+    {
+        "id": 5,
+        "descripcion": "LAMPARA DE MANO SOLAR DOS CANDELAS JA-1950",
+        "barcode": "6485741719505",
+        "costo": 7.13,
+        "precio": 9.38,
+        "image": ""
+    },
+    {
+        "id": 8,
+        "descripcion": "RADIO CHALLENGER CH-988\/CH-244",
+        "barcode": "6201520152048",
+        "costo": 14.605,
+        "precio": 16.46,
+        "image": "img\/productos\/a5f30fa69c4252c6de337a9aa7e7f891.jpg"
+    },
+    {
+        "id": 10,
+        "descripcion": "RADIO CHALLENGER CON MEMORIA CH-10RU",
+        "barcode": "2013042702106",
+        "costo": 27.6,
+        "precio": 32.89,
+        "image": "img\/productos\/bb08bfa0055b23c6820d2e7f542a455b.jpg"
+    },
+    {
+        "id": 11,
+        "descripcion": "CARGADOR UNIVERSAL SIN PANTALLA S-WQ-01-001",
+        "barcode": "6920170000010",
+        "costo": 1.61,
+        "precio": 2.91,
+        "image": "img\/productos\/6789314adfe160e8dbbce55cde177a0c.jpg"
+    },
+    {
+        "id": 12,
+        "descripcion": "CARGADOR UNIVERSAL CON PANTALLA S-WQ-01-003",
+        "barcode": "8601011010037",
+        "costo": 1.955,
+        "precio": 2.92,
+        "image": "img\/productos\/8ecfb49df9f0451b4302fb570159ed62.png"
+    },
+    {
+        "id": 13,
+        "descripcion": "LASER LAPIZ RECARGAGLE",
+        "barcode": "861833701021",
+        "costo": 15.456,
+        "precio": 19.94,
+        "image": "img\/productos\/4431139979f059378cd66c6ace86b030.jpg"
+    },
+    {
+        "id": 14,
+        "descripcion": "POWER BANK 3600 mAh S-TY-01-140",
+        "barcode": "8618113011404",
+        "costo": 3.45,
+        "precio": 4.69,
+        "image": "img\/productos\/bcef595a95b6203e6d4ca334298b2026.jpg"
+    },
+    {
+        "id": 15,
+        "descripcion": "EXTENSION ELECTRICA 25FT 115036-25",
+        "barcode": "5180121250364",
+        "costo": 2.047,
+        "precio": 2.92,
+        "image": "img\/productos\/32933aad96bf4184cd114642bcc24a49.jpg"
+    },
+    {
+        "id": 16,
+        "descripcion": "EXTENSION ELECTRICA 18FT 115036-18",
+        "barcode": "5180151150184",
+        "costo": 1.748,
+        "precio": 2.34,
+        "image": "img\/productos\/cfda25eb038e731ad2d9b18020d7a858.jpg"
+    },
+    {
+        "id": 17,
+        "descripcion": "EXTENSION ELECTRICA 6FT APOLO APEA02",
+        "barcode": "2332566589346",
+        "costo": 1.265,
+        "precio": 2.1,
+        "image": "img\/productos\/d8f483bf37e12cb9d3327dd080e70d7e.jpg"
+    },
+    {
+        "id": 18,
+        "descripcion": "EXTENSION ELECTRICA 15FT PROW CON REGLETA",
+        "barcode": "N\/A",
+        "costo": 5.75,
+        "precio": 9.34,
+        "image": ""
+    },
+    {
+        "id": 19,
+        "descripcion": "REGLETA EXITOSO",
+        "barcode": "7506086600194",
+        "costo": 3.22,
+        "precio": 4.34,
+        "image": ""
+    },
+    {
+        "id": 20,
+        "descripcion": "EXTENSION ELECTRICA ROTTER 6M NARANJA RO2724",
+        "barcode": "7501892884707",
+        "costo": 5.382,
+        "precio": 7.03,
+        "image": ""
+    },
+    {
+        "id": 21,
+        "descripcion": "EXTENSION ELECTRICA TROEN 8M NARANJA",
+        "barcode": "7453038488105",
+        "costo": 6.325,
+        "precio": 9.36,
+        "image": "img\/productos\/d52930fc4c390c03b4d11cff35cd7f7c.jpg"
+    },
+    {
+        "id": 23,
+        "descripcion": "EXTENSION ELECTRICA FULGORE 15M NARANJA",
+        "barcode": "7501892884738",
+        "costo": 17.825,
+        "precio": 18.85,
+        "image": ""
+    },
+    {
+        "id": 24,
+        "descripcion": "LAMPARA RECARGABLE LH-404",
+        "barcode": "6943360900211",
+        "costo": 2.76,
+        "precio": 3.52,
+        "image": "img\/productos\/ed96d8179ed7589128eea26158ca5b59.jpg"
+    },
+    {
+        "id": 25,
+        "descripcion": "LAMPARA REGARGABLE PUNTA DE CRISTAL YJ-0929",
+        "barcode": "6942205288989",
+        "costo": 2.645,
+        "precio": 3.52,
+        "image": "img\/productos\/d6f38009f2b5d8b96be225135bf21a3e.jpg"
+    },
+    {
+        "id": 26,
+        "descripcion": "LAMPARA RECARGABLE 001",
+        "barcode": "N\/A",
+        "costo": 2.185,
+        "precio": 2.35,
+        "image": "img\/productos\/f9f9c29818403dd13e2f372f2411fcfc.jpg"
+    },
+    {
+        "id": 27,
+        "descripcion": "LAMPARA RECARGABLE XY-838",
+        "barcode": "6941507400778",
+        "costo": 2.645,
+        "precio": 3.52,
+        "image": "img\/productos\/ba1f455f35a1cb6f42e9ab183068dbeb.jpg"
+    },
+    {
+        "id": 28,
+        "descripcion": "LAMPARA RECARGABLE BLANCA SY-3726",
+        "barcode": "6942206870268",
+        "costo": 2.484,
+        "precio": 3.51,
+        "image": "img\/productos\/915dff8a0329b1f44ba45c988ef8ff52.jpg"
+    },
+    {
+        "id": 29,
+        "descripcion": "LAMPARA RECARGABLE PESADITA MW-528",
+        "barcode": "N\/A",
+        "costo": 2.484,
+        "precio": 3.51,
+        "image": "img\/productos\/7da422286ac441ef462946fd624c3756.jpg"
+    },
+    {
+        "id": 30,
+        "descripcion": "LAMPARA PACHITA RECARGABLE SS-919",
+        "barcode": "867408101139",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/a7b43970901d536d642d3a5dda187077.jpg"
+    },
+    {
+        "id": 31,
+        "descripcion": "LAMPARA RECARGABLE TRIANGULO AB-K03",
+        "barcode": "6922550689891",
+        "costo": 2.645,
+        "precio": 3.5,
+        "image": "img\/productos\/4ec2026d1d9c02c29f7bc989f5b68dd7.jpg"
+    },
+    {
+        "id": 32,
+        "descripcion": "LAMPARA RECARGABLE YJ-1162",
+        "barcode": "N\/A",
+        "costo": 1.978,
+        "precio": 2.92,
+        "image": ""
+    },
+    {
+        "id": 33,
+        "descripcion": "LAMPARA RECARGABLE SS-853",
+        "barcode": "6944031229242",
+        "costo": 2.645,
+        "precio": 3.52,
+        "image": "img\/productos\/19f8e84540b94cb4e835328c2259a57a.jpg"
+    },
+    {
+        "id": 34,
+        "descripcion": "LAMPARA RECARGABLE 9001-B",
+        "barcode": "6952571851458",
+        "costo": 2.645,
+        "precio": 3.52,
+        "image": "img\/productos\/93e2ab58b0bf3d052a129c48b2713ee0.jpg"
+    },
+    {
+        "id": 35,
+        "descripcion": "LAMPARA RECARGABLE SUSAN GRANDE SULI002",
+        "barcode": "7404005960766",
+        "costo": 2.875,
+        "precio": 3.52,
+        "image": "img\/productos\/669f19f07f5af1a0a67e65ca35dbc4d2.jpg"
+    },
+    {
+        "id": 37,
+        "descripcion": "FOCO APOLO 15W BR",
+        "barcode": "N\/A",
+        "costo": 1.932,
+        "precio": 2.35,
+        "image": "img\/productos\/358f4e4fcfcb52473225178843347734.jpg"
+    },
+    {
+        "id": 38,
+        "descripcion": "FOCO LED APOLO 7W APB0002B \/BLISTER\/",
+        "barcode": "7404005960414",
+        "costo": 1.863,
+        "precio": 2.35,
+        "image": "img\/productos\/d4bc767f1700495dc955fbd919974eec.jpg"
+    },
+    {
+        "id": 39,
+        "descripcion": "FOCO LED APOLO 9W APBO003B \/BLISTER\/",
+        "barcode": "7404005960421",
+        "costo": 2.07,
+        "precio": 2.58,
+        "image": "img\/productos\/9bf01d894d1613868e11312984517c67.jpg"
+    },
+    {
+        "id": 40,
+        "descripcion": "FOCO APOLO 25W APAH001B",
+        "barcode": "7501206670019",
+        "costo": 1.955,
+        "precio": 2.81,
+        "image": "img\/productos\/5fe77ac5224785e2f984902c926af517.jpg"
+    },
+    {
+        "id": 41,
+        "descripcion": "FOCO SUSAN 65W SUAH003B",
+        "barcode": "7404005960292",
+        "costo": 13.8,
+        "precio": 17.6,
+        "image": ""
+    },
+    {
+        "id": 42,
+        "descripcion": "FOCO SUSAN 85W SUAH009 ROSCA NORMAL",
+        "barcode": "7404005960544",
+        "costo": 17.089,
+        "precio": 23.43,
+        "image": "img\/productos\/0b2b55df43c1fd04f70965a99321254b.jpg"
+    },
+    {
+        "id": 43,
+        "descripcion": "FOCO SUSAN 85W E40 220V SUAH009B",
+        "barcode": "N\/A",
+        "costo": 17.25,
+        "precio": 21.13,
+        "image": "img\/productos\/56b4f94dfea5a4d280481d969a4c8f56.jpg"
+    },
+    {
+        "id": 44,
+        "descripcion": "FOCO APOLO 65W APAH-003",
+        "barcode": "7404005960322",
+        "costo": 5.98,
+        "precio": 8.2,
+        "image": "img\/productos\/01e947e03915fac2852eb02eed82f3d2.jpg"
+    },
+    {
+        "id": 45,
+        "descripcion": "FOCO APOLO 45W APAH-004",
+        "barcode": "7404005960704",
+        "costo": 5.75,
+        "precio": 7.04,
+        "image": "img\/productos\/1a60cfd228eb70fac4eafebab487d00c.jpg"
+    },
+    {
+        "id": 46,
+        "descripcion": "FOCO SUSAN 25W SUAH001",
+        "barcode": "7404005960278",
+        "costo": 3.22,
+        "precio": 4.11,
+        "image": "img\/productos\/6e36bd2352a08471709b69cf80e557a8.jpg"
+    },
+    {
+        "id": 47,
+        "descripcion": "FOCO SUSAN 28W SUAH007",
+        "barcode": "7404005960520",
+        "costo": 3.45,
+        "precio": 4.45,
+        "image": "img\/productos\/de753b77b4b503efae6a89b02fea851f.jpg"
+    },
+    {
+        "id": 48,
+        "descripcion": "FOCO CHIYODA 25W",
+        "barcode": "7404005960094",
+        "costo": 2.53,
+        "precio": 2.82,
+        "image": "img\/productos\/8f90c8ed76e3d1a60bc7518850cc3481.jpg"
+    },
+    {
+        "id": 49,
+        "descripcion": "FOCO SUSAN 15W SUAH002",
+        "barcode": "7404005960285",
+        "costo": 2.415,
+        "precio": 2.7,
+        "image": "img\/productos\/89e47b678af80979d58ab58e4e3bb534.jpg"
+    },
+    {
+        "id": 50,
+        "descripcion": "FOCO SUSAN 15W T2 SUAH014",
+        "barcode": "7404005960599",
+        "costo": 2.415,
+        "precio": 2.94,
+        "image": "img\/productos\/d66253ac194b5b098f1b641f87d5daa9.jpg"
+    },
+    {
+        "id": 52,
+        "descripcion": "LAMPARA RECARGABLE DOS CANDELAS JA-1952",
+        "barcode": "6484572119522",
+        "costo": 4.485,
+        "precio": 5.86,
+        "image": "img\/productos\/5ede59947cdf8f318c9385602f37d6c7.jpg"
+    },
+    {
+        "id": 53,
+        "descripcion": "CONTROL IML BLISTER LARGO ROJO RCR504BR",
+        "barcode": "4710635005177",
+        "costo": 3.473,
+        "precio": 4.69,
+        "image": "img\/productos\/f638e23870f477c597ccc901d61cbbb0.jpg"
+    },
+    {
+        "id": 54,
+        "descripcion": "CONTROL RCA BLISTER LARGO CELESTE RCU-404",
+        "barcode": "7854545464871",
+        "costo": 1.633,
+        "precio": 2.35,
+        "image": "img\/productos\/2feb800b3e61587b916d72e548bad575.jpg"
+    },
+    {
+        "id": 55,
+        "descripcion": "CONTROL INTELIGENTE PEQUE\u00d1O LCD F-188 XR-01-003",
+        "barcode": "861768101003",
+        "costo": 1.955,
+        "precio": 2.35,
+        "image": "img\/productos\/928c3d40c29ce9eeaaff6e261a116972.jpg"
+    },
+    {
+        "id": 56,
+        "descripcion": "CONTROL REMOTO UNIVERSAL AIRE ACONDICIONADO KT-100A XR-01-022",
+        "barcode": "6921338610003",
+        "costo": 6.44,
+        "precio": 8.21,
+        "image": "img\/productos\/82cf4a342eafbbc8929da0dfb0eec9a0.jpg"
+    },
+    {
+        "id": 58,
+        "descripcion": "CONTROL REMOTO UNIVERSAL TV STANG ST-620",
+        "barcode": "1107011611979",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": "img\/productos\/05be4de988d47e4d2c13c47095c7fe19.jpg"
+    },
+    {
+        "id": 60,
+        "descripcion": "CONTROL INTELIGENTE RM-9511",
+        "barcode": "8617681010017",
+        "costo": 2.024,
+        "precio": 2.93,
+        "image": "img\/productos\/140440119367537021eebb084bd06086.jpg"
+    },
+    {
+        "id": 61,
+        "descripcion": "MOUSE PEQUE\u00d1O",
+        "barcode": "N\/A",
+        "costo": 4.83,
+        "precio": 5.87,
+        "image": "img\/productos\/00012345fe6a5f816feu755c1501v8.jpg"
+    },
+    {
+        "id": 62,
+        "descripcion": "CONTROL COLORES LCD IML HR-N98",
+        "barcode": "250777000714",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": "img\/productos\/79b5f4ab7b4539378eb7e4a6e26667fe.jpg"
+    },
+    {
+        "id": 63,
+        "descripcion": "CONTROL REMOTO UNIVERSAL DVD RM-230E",
+        "barcode": "6921338623003",
+        "costo": 2.185,
+        "precio": 3.5,
+        "image": "img\/productos\/de4d645797c19edc774d19161d0b712b.jpg"
+    },
+    {
+        "id": 64,
+        "descripcion": "CONTROL INTELIGENTE RM-9513",
+        "barcode": "6934086682567",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": "img\/productos\/1e2444bd4cfb87b51bfa0f55ebf48914.jpg"
+    },
+    {
+        "id": 65,
+        "descripcion": "CONTROL TV PANASONIC BL\/NE EUR501330 AYLIN-CONTROL-00060",
+        "barcode": "250777000608",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/a308dd19ccf1c475df3c1f7ff97ad129.jpg"
+    },
+    {
+        "id": 66,
+        "descripcion": "CONTROL SANYO DINAMICO TV 9370 AYLIN-CONTROL-00068",
+        "barcode": "250777000684",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/9da10ca4744bc7b99289c02be00bce4a.jpg"
+    },
+    {
+        "id": 67,
+        "descripcion": "CONTROL PANASONIC TV EUR-7717010 AYLIN-CONTROL-00064",
+        "barcode": "250777000646",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/af90d91bfe7b5b6d123a1ac151f224c3.jpg"
+    },
+    {
+        "id": 68,
+        "descripcion": "CONTROL PANASONIC BLANCO TV TNQ 4G0401",
+        "barcode": "250777001179",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/379d918aa5072fc9101f4fba296cef95.jpg"
+    },
+    {
+        "id": 71,
+        "descripcion": "CONTROL TV SONY RM-969",
+        "barcode": "8617681011120",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/eece4209cb842f147ad571bc5643c0c5.jpg"
+    },
+    {
+        "id": 73,
+        "descripcion": "CONTROL SANKEY TV OM8370-909 AYLIN-CONTROL-000116",
+        "barcode": "250777001162",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/50e55cddf7f6b6809bc3e9e17f654fe5.jpg"
+    },
+    {
+        "id": 74,
+        "descripcion": "CONTROL SHARP TV G13224SA CONTROL-00054",
+        "barcode": "250777000547",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/3a359907443be723bf2cf2de8a46363e.jpg"
+    },
+    {
+        "id": 75,
+        "descripcion": "RADIO USB CHALLENGER CON CONTROL REMOTO CH-001R",
+        "barcode": "2015110616001",
+        "costo": 43.7,
+        "precio": 53.99,
+        "image": "img\/productos\/f943d3f72c797e10f39637f4c34b9881.jpg"
+    },
+    {
+        "id": 76,
+        "descripcion": "CONTROL PANASONIC BLANCO O NEGRO 501330 AYLIN-CONTROL-00060",
+        "barcode": "250111000608",
+        "costo": 1.127,
+        "precio": 2.33,
+        "image": "img\/productos\/fa4e853cf87807fefcef30aa1f859204.jpg"
+    },
+    {
+        "id": 77,
+        "descripcion": "CONTROL TV PRECISION RS17-8895M AYLIN-CONTROL-00066",
+        "barcode": "250777000660",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/65f59fb955a548095589f4801b9c2d03.jpg"
+    },
+    {
+        "id": 79,
+        "descripcion": "CONTROL TV DAEWOO R-43A01 AYLIN-CONTROL-00059",
+        "barcode": "250777000592",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/8e33217080319f97c88546043432f602.jpg"
+    },
+    {
+        "id": 80,
+        "descripcion": "CONTROL LG 6710V00090H TV CONTROL-00067",
+        "barcode": "250777000677",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/27372df1b994cc15e5cb21c82333f012.jpg"
+    },
+    {
+        "id": 81,
+        "descripcion": "AUDIFONO SAMSUNG GALAXY S4 ZDRA-01-081",
+        "barcode": "868667101081",
+        "costo": 1.748,
+        "precio": 2.34,
+        "image": "img\/productos\/04591ed9312c9b77b4bcbcf706b46069.jpg"
+    },
+    {
+        "id": 82,
+        "descripcion": "CONTROL TV PHILIPS RC19335010",
+        "barcode": "8611681017090",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/ab62c8eaf8756ab9416fa49a059ed1a3.jpg"
+    },
+    {
+        "id": 83,
+        "descripcion": "CONTROL TV TOSHIBA CT-90163",
+        "barcode": "861768101012",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/ecf37b07e584c4955369c65d0ec0dd1b.jpg"
+    },
+    {
+        "id": 84,
+        "descripcion": "CONTROL TV PHILIPS RC 283501",
+        "barcode": "8617681011014",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/ef251428257822d89cc6eb090d86a2b2.jpg"
+    },
+    {
+        "id": 86,
+        "descripcion": "BOCINA BLUETOOTH MS-81BT JHW-01-109",
+        "barcode": "N\/A",
+        "costo": 23,
+        "precio": 23.58,
+        "image": "img\/productos\/896a01c19c2c60b9b167f532b5ab54c6.jpg"
+    },
+    {
+        "id": 89,
+        "descripcion": "BOCINA BLUETOOTH CUADRADA GRANDE MS-136BT",
+        "barcode": "N\/A",
+        "costo": 25.3,
+        "precio": 30.53,
+        "image": "img\/productos\/9ba95644e01f963a64404707a0ecbc0a.jpg"
+    },
+    {
+        "id": 90,
+        "descripcion": "BOCINA BLUETOOTH MS-165BT",
+        "barcode": "8899145010515",
+        "costo": 31.05,
+        "precio": 37.18,
+        "image": "img\/productos\/c8b1d6714339299392db9bb268b0de93.jpg"
+    },
+    {
+        "id": 91,
+        "descripcion": "BOCINA MS-129BT\/MS-244BT\/MS-132BT",
+        "barcode": "8657102011002",
+        "costo": 9.66,
+        "precio": 12.89,
+        "image": "img\/productos\/0dd038711aba49df16ad2ef55887a5ba.jpg"
+    },
+    {
+        "id": 92,
+        "descripcion": "BOCINA BLUETOOTH MS-149BT",
+        "barcode": "860314501117",
+        "costo": 13.8,
+        "precio": 17.6,
+        "image": "img\/productos\/6de8ceb8d235814f5f236a007e1a58da.jpg"
+    },
+    {
+        "id": 94,
+        "descripcion": "BOCINA BLUETOOTH MS-145BT JHW-01-114",
+        "barcode": "860314501114",
+        "costo": 29.44,
+        "precio": 37.54,
+        "image": "img\/productos\/6a0474775b1cb696d655240be75dd93e.jpg"
+    },
+    {
+        "id": 97,
+        "descripcion": "RADIO CHALLENGER CON MEMORIA CH-036TU",
+        "barcode": "2015012190036",
+        "costo": 34.5,
+        "precio": 35.36,
+        "image": "img\/productos\/55234ed33108e3550c02b406b1ceda8d.jpg"
+    },
+    {
+        "id": 104,
+        "descripcion": "GANCHOS PRENSA ROPA DE MADERA",
+        "barcode": "8410755310002",
+        "costo": 0.828,
+        "precio": 1.17,
+        "image": "img\/productos\/ddf64c7edfd893381d4fc4a7d3ec7979.jpg"
+    },
+    {
+        "id": 106,
+        "descripcion": "NINTENDO GAME STATION",
+        "barcode": "6913028866777",
+        "costo": 18.4,
+        "precio": 21.16,
+        "image": "img\/productos\/4fd732f21b09b32c7d7e573d3ed28dba.jpg"
+    },
+    {
+        "id": 107,
+        "descripcion": "SET DE DESARMADORES 31 EN 1 JK-6036",
+        "barcode": "6937618360360",
+        "costo": 3.128,
+        "precio": 5.83,
+        "image": "img\/productos\/6d23b36e14a0164467120640a7e56973.jpg"
+    },
+    {
+        "id": 108,
+        "descripcion": "CARTON DE RELOJES",
+        "barcode": "N\/A",
+        "costo": 10.074,
+        "precio": 12.9,
+        "image": "img\/productos\/316c10d9cdf19acb5f960b8d799450fc.jpg"
+    },
+    {
+        "id": 112,
+        "descripcion": "CANDELA CIRCULAR SUSAN 32W SUAH019",
+        "barcode": "7404059612017",
+        "costo": 6.67,
+        "precio": 8.22,
+        "image": "img\/productos\/3a7f30393b629990b61536fdb9b1b6ea.jpg"
+    },
+    {
+        "id": 113,
+        "descripcion": "BATERIAS AA",
+        "barcode": "6970432380046",
+        "costo": 0.092,
+        "precio": 0.12,
+        "image": "img\/productos\/b8da0d12400e76894419700a8d063250.jpg"
+    },
+    {
+        "id": 120,
+        "descripcion": "CONTROL REMOTO TOSHIBA DVD SE-R0047 XR-01-028",
+        "barcode": "861768101028",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": "img\/productos\/0aa01f78b6811323ccec4703880f3596.jpg"
+    },
+    {
+        "id": 121,
+        "descripcion": "CONTROL REMOTO COBY DVD JK-2002B XR-01-030",
+        "barcode": "861768101030",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/822dea8c073ae1dc9dce9a3aaed0cc1b.jpg"
+    },
+    {
+        "id": 122,
+        "descripcion": "CONTROL REMOTO DVD SANKEY SAN215 XR-01-031",
+        "barcode": "861768101031",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/2fb01af6ec16a1f152f6de5245d40713.jpg"
+    },
+    {
+        "id": 124,
+        "descripcion": "CONTROL TV SANYO DE CORTINA 8859",
+        "barcode": "8617681011045",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/4a5548e5636cee0c5fabfa7e0677b10f.jpg"
+    },
+    {
+        "id": 131,
+        "descripcion": "CEPILLO NI\u00d1O EN CAJA \/DOCENA\/",
+        "barcode": "6948031102062",
+        "costo": 3.841,
+        "precio": 5.26,
+        "image": "img\/productos\/7133c667f87aa9c73a35f7da8c2892a9.jpg"
+    },
+    {
+        "id": 134,
+        "descripcion": "CEPILLO ADULTO LANSHARE",
+        "barcode": "6970157240229",
+        "costo": 4.048,
+        "precio": 5.27,
+        "image": "img\/productos\/95156c2cbea381fdc2bd9209a9791d7a.jpg"
+    },
+    {
+        "id": 136,
+        "descripcion": "CEPILLO ADULTO SAN-A \/DOCENA\/",
+        "barcode": "6934741706034",
+        "costo": 9.43,
+        "precio": 10.58,
+        "image": "img\/productos\/ed0181438dec88342e983d3e74a6d6d6.jpg"
+    },
+    {
+        "id": 138,
+        "descripcion": "LAMPARA DE HERRAMIENTA SD-898",
+        "barcode": "6940326474892",
+        "costo": 4.002,
+        "precio": 4.7,
+        "image": "img\/productos\/9955265dd06423550cf42ac7729318da.jpg"
+    },
+    {
+        "id": 139,
+        "descripcion": "LAMPARA DE BATERIA YN-828",
+        "barcode": "N\/A",
+        "costo": 1.242,
+        "precio": 1.55,
+        "image": "img\/productos\/f2d410094b1e1b12bf3832e279cbf0ad.jpg"
+    },
+    {
+        "id": 140,
+        "descripcion": "PAQUETE DE HISOPOS MEDIANO 60-2",
+        "barcode": "6970254115130",
+        "costo": 3.91,
+        "precio": 5.85,
+        "image": "img\/productos\/f1566bbe0215cb3809d703a432813e0a.jpg"
+    },
+    {
+        "id": 142,
+        "descripcion": "LAMPARA DE BATERIA YE-550",
+        "barcode": "N\/A",
+        "costo": 1.058,
+        "precio": 1.54,
+        "image": "img\/productos\/f321aa4a2e0d37b8dabec6d3905ba2ea.jpg"
+    },
+    {
+        "id": 143,
+        "descripcion": "LAMPARA PACHITA DE BATERIA TY-668",
+        "barcode": "TY-668",
+        "costo": 1.265,
+        "precio": 1.55,
+        "image": "img\/productos\/221fafae689b058ac6b8993b9cb67a85.jpg"
+    },
+    {
+        "id": 144,
+        "descripcion": "LAMPARA DE BATERIA F-A7 COLORES",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 1.18,
+        "image": "img\/productos\/8f9586d362bbe4f0ce423fbd29f4d66c.jpg"
+    },
+    {
+        "id": 145,
+        "descripcion": "LAMPARA DE BATERIA KT-6628",
+        "barcode": "KT-6628",
+        "costo": 1.242,
+        "precio": 1.55,
+        "image": "img\/productos\/9ce40dcef61ad23bf7bc686e30138db7.jpg"
+    },
+    {
+        "id": 146,
+        "descripcion": "LAMPARA DE BATERIA SG-2218\/SG-2210",
+        "barcode": "WF-2218",
+        "costo": 1.242,
+        "precio": 1.55,
+        "image": "img\/productos\/1a52e64ecd7aeabd3e2658566eb4edf8.jpg"
+    },
+    {
+        "id": 147,
+        "descripcion": "LAMPARA DE BATERIA JG-218",
+        "barcode": "N\/A",
+        "costo": 1.05409,
+        "precio": 1.54,
+        "image": "img\/productos\/18a45c8e9ffeaf3d18010d8bb8559732.jpg"
+    },
+    {
+        "id": 148,
+        "descripcion": "LAMPARA DE BATERIA LM-8586",
+        "barcode": "N\/A",
+        "costo": 1.058,
+        "precio": 1.55,
+        "image": "img\/productos\/e920cedfcc8170f2a0ae91eb63a1b434.jpg"
+    },
+    {
+        "id": 149,
+        "descripcion": "LAMPARA DE BATERIA WBY-956",
+        "barcode": "WBY-956",
+        "costo": 1.265,
+        "precio": 1.55,
+        "image": "img\/productos\/025a4160ada58bc5b9dfea04a1d9cdfb.jpg"
+    },
+    {
+        "id": 150,
+        "descripcion": "LAMPARA DE BATERIA SY-0838",
+        "barcode": "6941507400129",
+        "costo": 1.242,
+        "precio": 1.55,
+        "image": "img\/productos\/2a9a7c374a31ccd88d5d5721fb8a5d43.jpg"
+    },
+    {
+        "id": 151,
+        "descripcion": "MASAJEADOR MIMO XY3199 WX-03-008",
+        "barcode": "8603168110516",
+        "costo": 2.806,
+        "precio": 3.52,
+        "image": "img\/productos\/f4900af8fd6e3b3b3d49f25bdd77622a.jpg"
+    },
+    {
+        "id": 152,
+        "descripcion": "LAMPARA DE BATERIA YJ-831",
+        "barcode": "6942205288057",
+        "costo": 1.495,
+        "precio": 1.76,
+        "image": "img\/productos\/f08fdf06b5981880de4134566dd9e03c.jpg"
+    },
+    {
+        "id": 153,
+        "descripcion": "LAMPARA DE BATERIA A-3519 DON NARCISO",
+        "barcode": "6926637835195",
+        "costo": 2.875,
+        "precio": 3.52,
+        "image": "img\/productos\/a64502375cec8a6cd015c04f65cb39c2.jpg"
+    },
+    {
+        "id": 154,
+        "descripcion": "NAVAJA WOLFOX DE 5 PULGADAS",
+        "barcode": "7501892828107",
+        "costo": 0.621,
+        "precio": 1.62,
+        "image": ""
+    },
+    {
+        "id": 155,
+        "descripcion": "MASCON VERDE",
+        "barcode": "N\/A",
+        "costo": 1.541,
+        "precio": 1.76,
+        "image": "img\/productos\/4c68bbee1354fbf339c99cdb083f3c15.jpg"
+    },
+    {
+        "id": 157,
+        "descripcion": "CRICO PLASTICO 10 PULGADAS S888",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/743cf39e033cffe92bf3dd8ef52da3b5.jpg"
+    },
+    {
+        "id": 158,
+        "descripcion": "CRICO PLASTICO 12 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/237d01966320dd71813f823c8f8d2cc7.jpg"
+    },
+    {
+        "id": 159,
+        "descripcion": "CRICO PLASTICO 16 PULGADAS LKS-02-001",
+        "barcode": "860321302001",
+        "costo": 2.185,
+        "precio": 3.5,
+        "image": "img\/productos\/e677ee7afadb5ebc1b6e46afe04fcd3d.jpg"
+    },
+    {
+        "id": 160,
+        "descripcion": "CRICO PLASTICO 18 PULGADAS LKS-02-002",
+        "barcode": "860321302002",
+        "costo": 2.185,
+        "precio": 3.5,
+        "image": "img\/productos\/a9f8a5c04b7a91caeac85bce41c9aaac.jpg"
+    },
+    {
+        "id": 161,
+        "descripcion": "CRICO PLASTICO 20 PULGADAS LKS-02-003",
+        "barcode": "860321302003",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/79a105a925bbf74071fcd7272a86aded.jpg"
+    },
+    {
+        "id": 162,
+        "descripcion": "CRICO PLASTICO 22 PULGADAS LKS-02-004",
+        "barcode": "860321302004",
+        "costo": 2.185,
+        "precio": 3.5,
+        "image": "img\/productos\/ef7536d734012951efc3cf44dd77eee0.jpg"
+    },
+    {
+        "id": 163,
+        "descripcion": "CRICO PLASTICO 24 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/b0bf021d358d34166120191274a35c6c.jpg"
+    },
+    {
+        "id": 164,
+        "descripcion": "FORRO TIMON",
+        "barcode": "N\/A",
+        "costo": 2.99,
+        "precio": 4.1,
+        "image": "img\/productos\/af984b59459a0652209188c94a25aa0e.jpg"
+    },
+    {
+        "id": 169,
+        "descripcion": "CARGADOR PARA CARRO DOS SALIDAS",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 1.18,
+        "image": "img\/productos\/0275d3b281c7f9e35deee859305bc84c.jpg"
+    },
+    {
+        "id": 170,
+        "descripcion": "CARGADOR COCO V8 PARA CARRO YS-01-043",
+        "barcode": "861796001043",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/4e9a78a19dce91841bc2156f45e6c9f4.jpg"
+    },
+    {
+        "id": 171,
+        "descripcion": "CARGADOR V3 COCO BOLSA",
+        "barcode": "86179001041",
+        "costo": 1.61,
+        "precio": 2.34,
+        "image": "img\/productos\/c5f6edd4e6dd8b4552bcd618a41d231d.jpg"
+    },
+    {
+        "id": 172,
+        "descripcion": "PULPO NEGRO 10 PUNTAS",
+        "barcode": "250777001216",
+        "costo": 1.38,
+        "precio": 2.33,
+        "image": "img\/productos\/2a0be78710a89c7eee9a48e45fd43e83.jpg"
+    },
+    {
+        "id": 174,
+        "descripcion": "ROSETA SUEA001",
+        "barcode": "17404005960619",
+        "costo": 0.506,
+        "precio": 1.17,
+        "image": "img\/productos\/468bf14064d441f6ad7f04bf84df4ab0.jpg"
+    },
+    {
+        "id": 175,
+        "descripcion": "SWITCH SENCILLO TORTUGA SUEA002",
+        "barcode": "7404005960629",
+        "costo": 0.552,
+        "precio": 1.16,
+        "image": "img\/productos\/30e480c6aef3655667027883ba77319a.jpg"
+    },
+    {
+        "id": 176,
+        "descripcion": "MEMORIA MICRO SD 4GB KINGSTON",
+        "barcode": "6603712c",
+        "costo": 9.2,
+        "precio": 11.73,
+        "image": "img\/productos\/21ef2e63d50c510f5d1e3f69e6ed7050.jpg"
+    },
+    {
+        "id": 178,
+        "descripcion": "LIMPIADOR CD XB-102",
+        "barcode": "6936298950595",
+        "costo": 0.667,
+        "precio": 1.17,
+        "image": "img\/productos\/55d804ab1b0ea018ac60e1ed881373e7.jpg"
+    },
+    {
+        "id": 180,
+        "descripcion": "DESARMADOR 6 EN 1 G013-1",
+        "barcode": "6954127863021",
+        "costo": 2.001,
+        "precio": 3.5,
+        "image": "img\/productos\/5f786bb74bc4b44141391ea687f85d2b.jpg"
+    },
+    {
+        "id": 183,
+        "descripcion": "CARGADOR DE BATERIA RECARGABLE AA Y AAA M-208",
+        "barcode": "N\/A",
+        "costo": 8.05,
+        "precio": 10.55,
+        "image": "img\/productos\/a6f7d264d6dfb11d8210e2cb3c6639a9.jpg"
+    },
+    {
+        "id": 184,
+        "descripcion": "SINCRONIZADOR PARA AUTOMOVIL SENCILLO",
+        "barcode": "N\/A",
+        "costo": 6.9,
+        "precio": 7.91,
+        "image": ""
+    },
+    {
+        "id": 186,
+        "descripcion": "HILO DENTAL CPA04-30",
+        "barcode": "6924494500263",
+        "costo": 1.38,
+        "precio": 1.76,
+        "image": "img\/productos\/3b2ad4b6d77493b19a121fb9404d6391.jpg"
+    },
+    {
+        "id": 188,
+        "descripcion": "BATERIAS RECARGABLES 4300",
+        "barcode": "6951295515035",
+        "costo": 5.75,
+        "precio": 5.89,
+        "image": "img\/productos\/8e9f5b3a5ca4e176d14ea2feb1cfffff.jpg"
+    },
+    {
+        "id": 190,
+        "descripcion": "CABLE IPHONE 4 SENCILLO DE COLORES AYLIN-CBL-00090",
+        "barcode": "250777000905",
+        "costo": 0.575,
+        "precio": 1.16,
+        "image": "img\/productos\/ff2a622e2b359e7ffe47c427ec4c039b.jpg"
+    },
+    {
+        "id": 192,
+        "descripcion": "AUDIFONO AAA BOLSA 61-23",
+        "barcode": "6900000061237",
+        "costo": 1.173,
+        "precio": 2.33,
+        "image": "img\/productos\/b819e69830056ebb67ca7f01d7d0798c.jpg"
+    },
+    {
+        "id": 193,
+        "descripcion": "CABLE iPHONE 5 COCO HDRZ-01-286",
+        "barcode": "861947012866",
+        "costo": 1.84,
+        "precio": 2.35,
+        "image": "img\/productos\/a83de045a42789c048c9bb5e05e21321.jpg"
+    },
+    {
+        "id": 194,
+        "descripcion": "LAMPARA DE BATERIA JD-718",
+        "barcode": "JD-718",
+        "costo": 1.265,
+        "precio": 1.56,
+        "image": "img\/productos\/eaff52a69ef95e4aecf6ba36e0ffc47e.jpg"
+    },
+    {
+        "id": 196,
+        "descripcion": "TENAZA ANARANJADA 8 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/207c11e82b687b3d3bb5470feea25e09.jpg"
+    },
+    {
+        "id": 197,
+        "descripcion": "CADENA PARA PERRO M-2018 AYLIN-CPR-00046",
+        "barcode": "250777000462",
+        "costo": 1.61,
+        "precio": 2.34,
+        "image": "img\/productos\/fbe69b2a01e6c33d2efa642a500c64f2.jpg"
+    },
+    {
+        "id": 200,
+        "descripcion": "CADENA PARA PERRO M-2518 AYLIN-CPR-00047",
+        "barcode": "250777000479",
+        "costo": 2.116,
+        "precio": 3.49,
+        "image": "img\/productos\/22d8f087abf60ec8dfe4a1ab43db8f33.jpg"
+    },
+    {
+        "id": 201,
+        "descripcion": "CUBO CUADRADO BLANCO",
+        "barcode": "8618106010568",
+        "costo": 0.874,
+        "precio": 1.18,
+        "image": "img\/productos\/e0a76fa28f729af4b40a78a065fedf2f.jpg"
+    },
+    {
+        "id": 202,
+        "descripcion": "CUBO FAST CHARGING",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 4.66,
+        "image": "img\/productos\/0c580ae22886220188bece98adcd8138.jpg"
+    },
+    {
+        "id": 203,
+        "descripcion": "CADENA PARA PERRO M-4518 AYLIN-CPR-00049",
+        "barcode": "250777000493",
+        "costo": 3.933,
+        "precio": 5.27,
+        "image": "img\/productos\/42373580774da622aa857b56e71196e1.jpg"
+    },
+    {
+        "id": 215,
+        "descripcion": "CINTA DOBLE CARA ABRO",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/90f42a8620f61779d641d59b95a76167.jpg"
+    },
+    {
+        "id": 216,
+        "descripcion": "CABLE IPHONE 5 SENCILLO",
+        "barcode": "250777001476",
+        "costo": 0.23,
+        "precio": 0.57,
+        "image": "img\/productos\/4322c86ba2475091e97cd3990b4a1d11.png"
+    },
+    {
+        "id": 218,
+        "descripcion": "TOMA DOBLE POLARIZADO SUPERFICIAL SUSAN SUEA004",
+        "barcode": "7404005960643",
+        "costo": 0.92,
+        "precio": 1.75,
+        "image": "img\/productos\/0b4b0044eb2092fab092736a81756b8b.jpg"
+    },
+    {
+        "id": 219,
+        "descripcion": "PULPO LARGO 3 PUNTAS\/ CABLE TIPO C \/CBL-00087",
+        "barcode": "250777000875",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/a56cb161caccf72e8d8b055858880810.jpg"
+    },
+    {
+        "id": 221,
+        "descripcion": "PRENSA ROPA PLASTICO",
+        "barcode": "6970452860078",
+        "costo": 1.104,
+        "precio": 1.41,
+        "image": "img\/productos\/be5a36b9c57e3ec60941baabe75345ad.jpg"
+    },
+    {
+        "id": 225,
+        "descripcion": "CARGADOR SAMSUNG 3 PIEZAS FOR NOTE GALAXY S3 S4 S5 \/ SJ03",
+        "barcode": "6973821978077",
+        "costo": 1.84,
+        "precio": 3.5,
+        "image": "img\/productos\/afc0045f1aedb482699b78947f9dcbb3.jpg"
+    },
+    {
+        "id": 226,
+        "descripcion": "CABLE V8 ZIPPER LED XY-01-069",
+        "barcode": "8601181060696",
+        "costo": 1.84,
+        "precio": 2.92,
+        "image": "img\/productos\/f3a2b68ae323061ad64eee220c0f4113.jpg"
+    },
+    {
+        "id": 227,
+        "descripcion": "CARTON PEGAMENTO SUPER GLUE CHEMMER",
+        "barcode": "4719867213268",
+        "costo": 1.978,
+        "precio": 2.35,
+        "image": "img\/productos\/3a3540fded623bfb28f71c0a91cb7647.jpg"
+    },
+    {
+        "id": 228,
+        "descripcion": "RASURADORA MANUAL GILITTEY II PLUS",
+        "barcode": "6932428102599",
+        "costo": 6.1065,
+        "precio": 7.05,
+        "image": "img\/productos\/c51c0583b1ba58cdd74f39207f1160fb.jpg"
+    },
+    {
+        "id": 230,
+        "descripcion": "CARGADOR BATERIA LAMPARA POLICIAL",
+        "barcode": "250777001070",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/4daba0f19a2fc5fd5efc9bd9c61aef8c.jpg"
+    },
+    {
+        "id": 232,
+        "descripcion": "CABLE AUXILIAR PARA DVD IML AYLIN-CBL-00083",
+        "barcode": "250777000837",
+        "costo": 1.288,
+        "precio": 2.33,
+        "image": "img\/productos\/4991ac17a29682c2f555f2c93a9a2420.jpg"
+    },
+    {
+        "id": 233,
+        "descripcion": "EXTENSION PARA RADIO AYLIN-CBL-00084",
+        "barcode": "250777000844",
+        "costo": 0.851,
+        "precio": 2.32,
+        "image": "img\/productos\/745ebd45f4992838e6f4bae799f6c11f.jpg"
+    },
+    {
+        "id": 234,
+        "descripcion": "ANTENA DE CONEJO BASE REDONDA CON CABLE COAXIAL A-618C",
+        "barcode": "250777000417",
+        "costo": 2.208,
+        "precio": 3.51,
+        "image": "img\/productos\/c97046c085b3d35dcd8fa0c26e643740.jpg"
+    },
+    {
+        "id": 235,
+        "descripcion": "AROMA CARRO PINO",
+        "barcode": "N\/A",
+        "costo": 0.575,
+        "precio": 0.82,
+        "image": "img\/productos\/262471d5654b9ecf7a56575f50918ae1.jpg"
+    },
+    {
+        "id": 236,
+        "descripcion": "CONVERTIDOR DE VOLTAJE DC-AC 200W",
+        "barcode": "N\/A",
+        "costo": 36.8,
+        "precio": 46.92,
+        "image": "img\/productos\/6b8b002536c6dbd47420538a6c035fb1.jpg"
+    },
+    {
+        "id": 237,
+        "descripcion": "CINTA LED BLANCA 100 CM HD-02-042",
+        "barcode": "8615523020422",
+        "costo": 5.911,
+        "precio": 8.2,
+        "image": "img\/productos\/8b31c9dfc0b7178a72804901021be23d.jpg"
+    },
+    {
+        "id": 238,
+        "descripcion": "KIT REGULADOR DE COCINA DE GAS R-QC2K",
+        "barcode": "250777000370",
+        "costo": 8.533,
+        "precio": 10.56,
+        "image": "img\/productos\/95e4f70d8f5887025388fbe8d58b25ca.jpg"
+    },
+    {
+        "id": 239,
+        "descripcion": "CADENA PARA PERRO M-3018 AYLIN-CPR-00045",
+        "barcode": "250777000455",
+        "costo": 2.645,
+        "precio": 4.09,
+        "image": "img\/productos\/706222c31e5b7af2b22ea900eaf107d5.jpg"
+    },
+    {
+        "id": 240,
+        "descripcion": "CADENA PARA PERRO M-4018 AYLIN-CPR-00048",
+        "barcode": "250777000486",
+        "costo": 3.289,
+        "precio": 4.68,
+        "image": "img\/productos\/da71bd0d384a6dcc2434f1e92005beee.jpg"
+    },
+    {
+        "id": 244,
+        "descripcion": "CARTON DE CANDADOS ROBBL \/DOCENA\/ \/AFRICAN LOCK\/",
+        "barcode": "N\/A",
+        "costo": 14.605,
+        "precio": 21.06,
+        "image": "img\/productos\/f440b4769d421358d3585ccd48066f10.jpg"
+    },
+    {
+        "id": 246,
+        "descripcion": "CINCHO SENCILLO CUERINA",
+        "barcode": "N\/A",
+        "costo": 0.851,
+        "precio": 1.41,
+        "image": "img\/productos\/8edcc080419522c7ec943e06704ecff7.jpg"
+    },
+    {
+        "id": 247,
+        "descripcion": "CINCHO CHINO NORMAL CUERINA",
+        "barcode": "N\/A",
+        "costo": 1.656,
+        "precio": 2.57,
+        "image": "img\/productos\/8e857ab35f71cd0a034f418d0f0f9e35.jpg"
+    },
+    {
+        "id": 251,
+        "descripcion": "DOCENA PEINE PLASTICO",
+        "barcode": "250777000400",
+        "costo": 3.91,
+        "precio": 4.7,
+        "image": "img\/productos\/334f5722a1102575e4a2b51cdc4bf2ca.jpg"
+    },
+    {
+        "id": 253,
+        "descripcion": "TIRA LUZ LED PARA CARRO 60CM",
+        "barcode": "N\/A",
+        "costo": 3.335,
+        "precio": 4.45,
+        "image": "img\/productos\/d4e81c115350a4ce14109bd1388b4399.jpg"
+    },
+    {
+        "id": 254,
+        "descripcion": "TIRA LUZ LED PARA CARRO 90CM",
+        "barcode": "N\/A",
+        "costo": 3.45,
+        "precio": 4.69,
+        "image": "img\/productos\/6f83467f011bba0dd83a7e49d73dbb26.jpg"
+    },
+    {
+        "id": 255,
+        "descripcion": "TIRA LUZ LED PARA CARRO 120CM",
+        "barcode": "N\/A",
+        "costo": 5.06,
+        "precio": 6.81,
+        "image": "img\/productos\/4faff24116ac27fe8b40f0f6c5313902.jpg"
+    },
+    {
+        "id": 260,
+        "descripcion": "CABLE AXULIAR AUDIO 1 Y 1 IML",
+        "barcode": "N\/A",
+        "costo": 0.805,
+        "precio": 2.32,
+        "image": "img\/productos\/99786e23229c242f3b287866db5683ce.jpg"
+    },
+    {
+        "id": 261,
+        "descripcion": "CABLE AUXILIAR AUDIO 2 Y 1 IML AYLIN-CBL-00081",
+        "barcode": "250777000813",
+        "costo": 1.633,
+        "precio": 2.34,
+        "image": "img\/productos\/778491af8fc9de72b676f5df5527fb93.jpg"
+    },
+    {
+        "id": 263,
+        "descripcion": "MANITA RASCADORA",
+        "barcode": "N\/A",
+        "costo": 0.437,
+        "precio": 0.69,
+        "image": "img\/productos\/48d0665659a9a4dbb4d57a69d5260d1c.jpg"
+    },
+    {
+        "id": 265,
+        "descripcion": "BATERIA BLISTER TIANGIU AG13\/357A",
+        "barcode": "6927799681132",
+        "costo": 0.115,
+        "precio": 0.23,
+        "image": "img\/productos\/675fe8fdfe0561360c98bcab0aef455d.jpg"
+    },
+    {
+        "id": 266,
+        "descripcion": "BATERIA BLISTER TIANGIU AG10\/389A",
+        "barcode": "6927799681101",
+        "costo": 0.115,
+        "precio": 0.23,
+        "image": "img\/productos\/cd637827381f6253d05337d2df790408.jpg"
+    },
+    {
+        "id": 267,
+        "descripcion": "BATERIA BLISTER TIANGIU CR2032",
+        "barcode": "6927799682160",
+        "costo": 0.115,
+        "precio": 0.23,
+        "image": "img\/productos\/445c99e821788bcf8e4001fd32abe295.jpg"
+    },
+    {
+        "id": 268,
+        "descripcion": "BATERIA BLISTER TIANGIU CR2025",
+        "barcode": "6927799682177",
+        "costo": 0.115,
+        "precio": 0.23,
+        "image": "img\/productos\/16f5dd7dfaa358b4e9034bc89ebcd8dd.jpg"
+    },
+    {
+        "id": 269,
+        "descripcion": "BATERIA BLISTER SUPER 1 CR2016",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 2.33,
+        "image": "img\/productos\/15ad334b7eff8b51d312865dc3ba2b45.jpg"
+    },
+    {
+        "id": 270,
+        "descripcion": "BATERIA BLISTER TIANGIU AG3 392A",
+        "barcode": "6927799681033",
+        "costo": 0.115,
+        "precio": 0.23,
+        "image": "img\/productos\/a3e4905dc56636f1cc31f5e8421e0522.jpg"
+    },
+    {
+        "id": 274,
+        "descripcion": "RAQUETA MATA MOSQUITOS IML CON LUZ HG-MM2",
+        "barcode": "N\/A",
+        "costo": 5.198,
+        "precio": 6.57,
+        "image": "img\/productos\/09f305e0092cadb280aeb797a100fe59.jpg"
+    },
+    {
+        "id": 281,
+        "descripcion": "LAPIZ MONGOL 482",
+        "barcode": "6954178407916",
+        "costo": 1.495,
+        "precio": 1.99,
+        "image": "img\/productos\/22e2d18bede1d4b2724f968d96925e86.jpg"
+    },
+    {
+        "id": 282,
+        "descripcion": "FOCO LED 5W 3B LED-C5",
+        "barcode": "N\/A",
+        "costo": 1.909,
+        "precio": 2.59,
+        "image": "img\/productos\/aa6dee9fc182eb8e1677f363d9322968.jpg"
+    },
+    {
+        "id": 300,
+        "descripcion": "SOMBRILLA AUTOMATICA MEDIANA NEGRA",
+        "barcode": "N\/A",
+        "costo": 5.336,
+        "precio": 6.46,
+        "image": "img\/productos\/4c192fe137349a0bbfe534e51f3df48d.jpg"
+    },
+    {
+        "id": 301,
+        "descripcion": "SOMBRILLA JUMBO",
+        "barcode": "N\/A",
+        "costo": 6.44,
+        "precio": 8.21,
+        "image": "img\/productos\/c3e8f69d97a7073aaf488690f79ed52e.jpg"
+    },
+    {
+        "id": 302,
+        "descripcion": "CEPILLO ADULTO SANFENG \/DOCENA\/",
+        "barcode": "6953872580146",
+        "costo": 6.785,
+        "precio": 9.37,
+        "image": "img\/productos\/3d20fa0a609ac9ae791f157382dc0632.jpg"
+    },
+    {
+        "id": 303,
+        "descripcion": "BORRADOR DE MARIPOSAS DOBY",
+        "barcode": "6958750800057",
+        "costo": 4.163,
+        "precio": 5.85,
+        "image": "img\/productos\/51e1d6aed538b76a15352aa68ed3d8a7.jpg"
+    },
+    {
+        "id": 304,
+        "descripcion": "CARRO SPEAKER YSW-01-007",
+        "barcode": "860217601007",
+        "costo": 16.1,
+        "precio": 23.41,
+        "image": "img\/productos\/243bd4011554b35562baf7848627efb4.jpg"
+    },
+    {
+        "id": 305,
+        "descripcion": "ENCRESPADOR DE PRESTA\u00d1AS",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 1.18,
+        "image": ""
+    },
+    {
+        "id": 307,
+        "descripcion": "LAMPARA DE BATERIA DE MANO KK180",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 2.36,
+        "image": "img\/productos\/c2df791b378dc2bca9ec9f000e859471.jpg"
+    },
+    {
+        "id": 308,
+        "descripcion": "MASAJEADOR DE CABEZA",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 1.17,
+        "image": "img\/productos\/ee60e8736a0224f10533579d973de552.jpg"
+    },
+    {
+        "id": 309,
+        "descripcion": "LAMPARA RECARGABLE TIPO COLEMAN MH-9988",
+        "barcode": "N\/A",
+        "costo": 4.991,
+        "precio": 5.86,
+        "image": "img\/productos\/cac9ef9bb9edabf7f648c2afc11e3875.jpg"
+    },
+    {
+        "id": 310,
+        "descripcion": "LAMPARA DE FRENTE RECARGABLE IML LD-212",
+        "barcode": "6944031219014",
+        "costo": 3.91,
+        "precio": 4.7,
+        "image": "img\/productos\/de4b14a5ea61a52fa09f9940b00e9369.jpg"
+    },
+    {
+        "id": 311,
+        "descripcion": "RELOJ PARA CARRO NAKO NA-617A",
+        "barcode": "6954598110013",
+        "costo": 1.541,
+        "precio": 2.91,
+        "image": "img\/productos\/94150722bd5981035e8f7f711780f1aa.jpg"
+    },
+    {
+        "id": 313,
+        "descripcion": "CORTA U\u00d1AS 0757",
+        "barcode": "6920709306125",
+        "costo": 0.621,
+        "precio": 0.78,
+        "image": "img\/productos\/3af1348b13f7a22ced666851d9a18b43.jpg"
+    },
+    {
+        "id": 314,
+        "descripcion": "CALAVERA SUSAN SUEA033 12PCS GRANEL",
+        "barcode": "250777001001",
+        "costo": 1.104,
+        "precio": 1.75,
+        "image": "img\/productos\/12dee6a7efd57744476345b744794091.jpg"
+    },
+    {
+        "id": 315,
+        "descripcion": "ADAPTADOR PARA PSP PP-01-010",
+        "barcode": "8618088010105",
+        "costo": 3.45,
+        "precio": 3.54,
+        "image": "img\/productos\/17a93c0bdeafc741fdc8c6c046bd073e.jpg"
+    },
+    {
+        "id": 322,
+        "descripcion": "LAMPARA ACUATICA F-02",
+        "barcode": "N\/A",
+        "costo": 5.727,
+        "precio": 7.62,
+        "image": "img\/productos\/6ed1281976575f34b0080579001498da.jpg"
+    },
+    {
+        "id": 323,
+        "descripcion": "MASAJEADOR SUPER LIFE XF-69",
+        "barcode": "6922049100012",
+        "costo": 2.415,
+        "precio": 4.66,
+        "image": "img\/productos\/89455b528f21dd3e3ac81142bd59af82.jpg"
+    },
+    {
+        "id": 324,
+        "descripcion": "REPRODUCTOR MP3 CON PANTALLA TY-01-004",
+        "barcode": "N\/A",
+        "costo": 5.75,
+        "precio": 7.04,
+        "image": ""
+    },
+    {
+        "id": 325,
+        "descripcion": "REPRODUCTOR MP3 SIN PANTALLA TY-01-003",
+        "barcode": "N\/A",
+        "costo": 3.22,
+        "precio": 4.11,
+        "image": "img\/productos\/56e846b34375e1ad17237cf3f913f051.jpg"
+    },
+    {
+        "id": 326,
+        "descripcion": "ADAPTADOR TOMA CORRIENTE DE 3 A 2 POLARIZADO AYLIN-ADP-005",
+        "barcode": "250777000059",
+        "costo": 0.276,
+        "precio": 1.16,
+        "image": "img\/productos\/8c5bda656045e9ee958029550b2277d8.jpg"
+    },
+    {
+        "id": 327,
+        "descripcion": "VENTILADOR DAILY 10 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 19.55,
+        "precio": 25.79,
+        "image": "img\/productos\/f6ec934c1eac2208ad78c91aed960596.jpg"
+    },
+    {
+        "id": 328,
+        "descripcion": "LAPICERO GEL JETCO \/CAJA 12 UNIDADES\/",
+        "barcode": "6937712700123",
+        "costo": 2.07,
+        "precio": 2.93,
+        "image": "img\/productos\/76d49550fbf0013c296490ab47142e44.jpg"
+    },
+    {
+        "id": 329,
+        "descripcion": "LIMA PARA U\u00d1AS SILSTAR",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 0.71,
+        "image": "img\/productos\/bfce63fb272a7773392a8a30a7b48c28.jpg"
+    },
+    {
+        "id": 333,
+        "descripcion": "CARTUCHERA PARA NI\u00d1O HY-7513 V",
+        "barcode": "N\/A",
+        "costo": 7.935,
+        "precio": 9.4,
+        "image": "img\/productos\/c34500e396c4a53ef1ed061ea67e7881.jpg"
+    },
+    {
+        "id": 335,
+        "descripcion": "BALON DE FUTBOL",
+        "barcode": "N\/A",
+        "costo": 10.35,
+        "precio": 10.61,
+        "image": "img\/productos\/4d19b08be247cec2585fa528eff9df19.jpg"
+    },
+    {
+        "id": 336,
+        "descripcion": "GORRA MULTIPLES DISE\u00d1OS \/DOCENA\/",
+        "barcode": "N\/A",
+        "costo": 14.076,
+        "precio": 18.75,
+        "image": "img\/productos\/a819bbd65be8f51deede8244e0f65163.jpg"
+    },
+    {
+        "id": 337,
+        "descripcion": "CABLE AUXILIAR AUDIO 2 Y 2 AYLIN-CBL-00085",
+        "barcode": "250777000851",
+        "costo": 0.069,
+        "precio": 0.58,
+        "image": "img\/productos\/a63c8cd80b962a1909495bd97cc6ae7f.jpg"
+    },
+    {
+        "id": 338,
+        "descripcion": "TOMA MACHO SENCILLO AYLIN-TM-001",
+        "barcode": "250777001",
+        "costo": 0.299,
+        "precio": 0.58,
+        "image": "img\/productos\/4c317202f320cdfed1c7ebaaedc4bc6c.jpg"
+    },
+    {
+        "id": 339,
+        "descripcion": "SPLITTER 2 SALIDAS",
+        "barcode": "N\/A",
+        "costo": 0.598,
+        "precio": 0.82,
+        "image": "img\/productos\/f9426e99e293c26ae67b0dc4c75a9913.jpg"
+    },
+    {
+        "id": 340,
+        "descripcion": "SPLITTER 2 ENTRADAS, 3 SALIDAS",
+        "barcode": "N\/A",
+        "costo": 0.805,
+        "precio": 1.17,
+        "image": "img\/productos\/61e389f19289d02bfdbea8636e34da3c.jpg"
+    },
+    {
+        "id": 341,
+        "descripcion": "SPLITTER 1 ENTRADA, 3 SALIDAS",
+        "barcode": "N\/A",
+        "costo": 0.782,
+        "precio": 1.17,
+        "image": "img\/productos\/f2d4e247f12a253b28f845399c7771bc.jpg"
+    },
+    {
+        "id": 342,
+        "descripcion": "CONECTOR PARA ANTENA AYLIN-CBL-00111",
+        "barcode": "250777001117",
+        "costo": 1.15,
+        "precio": 1.75,
+        "image": "img\/productos\/cf2d27738679e01d438aa2c89ebc0452.jpg"
+    },
+    {
+        "id": 343,
+        "descripcion": "TERMINAL DE ROSCA PARA CABLE COAXIAL",
+        "barcode": "N\/A",
+        "costo": 0.092,
+        "precio": 0.12,
+        "image": "img\/productos\/c2227dec31a5dffb65a76ede316b558b.jpg"
+    },
+    {
+        "id": 344,
+        "descripcion": "SET DE 5 AGUJAS PARA BOMBA",
+        "barcode": "N\/A",
+        "costo": 0.805,
+        "precio": 2.32,
+        "image": "img\/productos\/dd234601f4cb7a444178f0cc3c6d9592.jpg"
+    },
+    {
+        "id": 345,
+        "descripcion": "CAPA PARA LLUVIA ADULTO SENCILLO 1538 \/PONCHO\/",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 0.71,
+        "image": "img\/productos\/f2e8a365749fa4022d3d7a491296a0c3.jpg"
+    },
+    {
+        "id": 346,
+        "descripcion": "PONCHO DE ADULTO NORMAL H83",
+        "barcode": "691686600182",
+        "costo": 1.61,
+        "precio": 2.34,
+        "image": ""
+    },
+    {
+        "id": 347,
+        "descripcion": "MAQUINA PARA PONER PRECIOS MX-550E0S",
+        "barcode": "N\/A",
+        "costo": 9.2,
+        "precio": 18.63,
+        "image": "img\/productos\/f4528b085977b1bf9f51a7dbec0251b9.jpg"
+    },
+    {
+        "id": 349,
+        "descripcion": "ESMALTE DAROSA",
+        "barcode": "N\/A",
+        "costo": 0.989,
+        "precio": 1.06,
+        "image": "img\/productos\/b6defe1c4a49a1685426111e3180db44.jpg"
+    },
+    {
+        "id": 377,
+        "descripcion": "FOCO RECARGABLE CON CONTROL JUNAI JA-599",
+        "barcode": "6495741515991",
+        "costo": 4.37,
+        "precio": 5.86,
+        "image": "img\/productos\/a3c6734d31c011cebb192fa22fd1781d.jpg"
+    },
+    {
+        "id": 406,
+        "descripcion": "SET DE DESARMADORES PARA RELOJ DE 11 PIEZAS 6226819",
+        "barcode": "6923550226819",
+        "costo": 2.185,
+        "precio": 3.5,
+        "image": "img\/productos\/528a4c1b7d2e6ba5b73f7c1734302df5.jpg"
+    },
+    {
+        "id": 408,
+        "descripcion": "CRICO PLASTICO 26 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": "img\/productos\/0bc23830621f52b6fcf4392d9b954896.jpg"
+    },
+    {
+        "id": 409,
+        "descripcion": "PROTECTOR DE TELEFONO 3 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 4.37,
+        "precio": 5.28,
+        "image": ""
+    },
+    {
+        "id": 410,
+        "descripcion": "LUZ PLACA LED VEHICULO 8447b-b90",
+        "barcode": "N\/A",
+        "costo": 11.5,
+        "precio": 14.09,
+        "image": "img\/productos\/5efe8292ffb72eac7fdf0dcb2225ca59.jpg"
+    },
+    {
+        "id": 411,
+        "descripcion": "LUZ STROBER MOTO LED LIGHTS 5057305",
+        "barcode": "N\/A",
+        "costo": 7.475,
+        "precio": 9.96,
+        "image": "img\/productos\/b1628d5ed7367277a1d6ecc349eb28d7.JPG"
+    },
+    {
+        "id": 412,
+        "descripcion": "LAMPARA PAYASO BOLSA \/DOCENA\/",
+        "barcode": "N\/A",
+        "costo": 4.6,
+        "precio": 8.17,
+        "image": "img\/productos\/cdffdd4a4ffe208059fd21d32eaf6b24.jpg"
+    },
+    {
+        "id": 413,
+        "descripcion": "CONTROL REMOTO SAMSUNG TV 10110G BLANCO AYLIN-CONTROL-00062",
+        "barcode": "250777000622",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/9f287e023f960aa252562bc0986bd329.jpg"
+    },
+    {
+        "id": 414,
+        "descripcion": "CONTROL REMOTO SONY EQUIPO SONIDO RM-SC3 AYLIN-CONTROL-00057",
+        "barcode": "250777000578",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/f2bab6ca3065f989b0f711a06ea989f0.jpg"
+    },
+    {
+        "id": 415,
+        "descripcion": "CONTROL REMOTO TV TOSHIBA NEGRO CT-821",
+        "barcode": "8617681011052",
+        "costo": 1.334,
+        "precio": 2.33,
+        "image": "img\/productos\/2adf9c70bebc497857fed27c6ceb0fdf.jpg"
+    },
+    {
+        "id": 416,
+        "descripcion": "CONTROL REMOTO SAMSUNG DVD",
+        "barcode": "N\/A",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": "img\/productos\/e89207aeea34fee975b9af4cbae98f8c.jpg"
+    },
+    {
+        "id": 417,
+        "descripcion": "LUZ STROBER MOTO SF-02-2373",
+        "barcode": "6899468995294",
+        "costo": 4.6,
+        "precio": 5.64,
+        "image": "img\/productos\/9fc4b901fa398369e1311ec7fa1b4e80.JPG"
+    },
+    {
+        "id": 418,
+        "descripcion": "LUZ REDONDA MULTICOLOR CARRO Y MOTO 9381C-B89",
+        "barcode": "N\/A",
+        "costo": 10.35,
+        "precio": 12.91,
+        "image": "img\/productos\/dd4ab37291a562ce440b21594e43fdfb.jpg"
+    },
+    {
+        "id": 419,
+        "descripcion": "LUZ PLACA NEON VEHICULO 194-5",
+        "barcode": "N\/A",
+        "costo": 10.12,
+        "precio": 12.9,
+        "image": "img\/productos\/e6c6b60e803abf380e4b074bcb4b954b.jpg"
+    },
+    {
+        "id": 420,
+        "descripcion": "LUZ DIRECCIONAL VIA MOTO 10785-887",
+        "barcode": "N\/A",
+        "costo": 6.9,
+        "precio": 9.37,
+        "image": "img\/productos\/dd2381fcaf2ba2cc2f8209e76e8e5aae.jpg"
+    },
+    {
+        "id": 421,
+        "descripcion": "LED H4 PARA VEHICULO OY-02-361",
+        "barcode": "863251202361",
+        "costo": 29.9,
+        "precio": 39.84,
+        "image": "img\/productos\/67e2f3243217b8f74dc30485362912fb.jpg"
+    },
+    {
+        "id": 422,
+        "descripcion": "CEPILLO ADULTO SANFENG NEW LIFE",
+        "barcode": "N\/A",
+        "costo": 8.05,
+        "precio": 9.4,
+        "image": "img\/productos\/16ec66050f12771665e1c13b2a34ff46.jpg"
+    },
+    {
+        "id": 423,
+        "descripcion": "BATERIA 9V 6F22",
+        "barcode": "N\/A",
+        "costo": 2.07,
+        "precio": 3.5,
+        "image": "img\/productos\/b0a8f3cc3754916d7306474ed7a948c4.jpg"
+    },
+    {
+        "id": 425,
+        "descripcion": "CINCHO NYLON AYLIN-CINCHO-00114",
+        "barcode": "250777001148",
+        "costo": 0.874,
+        "precio": 1.06,
+        "image": "img\/productos\/24b0a31c3c18a79ee4b2fc5cfd31bed8.jpg"
+    },
+    {
+        "id": 426,
+        "descripcion": "LAMPARA LLAVERO \/CAJA 24 PIEZAS\/",
+        "barcode": "N\/A",
+        "costo": 0.529,
+        "precio": 0.59,
+        "image": "img\/productos\/01f183b48a87a52cb7def1da0c936854.jpg"
+    },
+    {
+        "id": 427,
+        "descripcion": "CARRO REPRODUCTOR MUSICAL HY-T908",
+        "barcode": "N\/A",
+        "costo": 16.1,
+        "precio": 23.39,
+        "image": "img\/productos\/20a746bb957e4887c6e1446dc6dd1476.jpg"
+    },
+    {
+        "id": 428,
+        "descripcion": "FOCO INCANDESCENTE SUSAN 25W",
+        "barcode": "N\/A",
+        "costo": 0.506,
+        "precio": 0.82,
+        "image": "img\/productos\/4a05e0a5c427736ebe1c35b2c9c12fb1.jpg"
+    },
+    {
+        "id": 429,
+        "descripcion": "FOCO SUSAN 7W",
+        "barcode": "7404005960551",
+        "costo": 2.415,
+        "precio": 2.48,
+        "image": "img\/productos\/7fcc156aeb011cf762a8d933c0b77768.jpg"
+    },
+    {
+        "id": 431,
+        "descripcion": "FOCO APOLO 15W \/CAJA INDIVIDUAL\/",
+        "barcode": "7404005960315",
+        "costo": 1.955,
+        "precio": 2,
+        "image": "img\/productos\/f03ff4e690ab3bfac923937c4be04adf.jpg"
+    },
+    {
+        "id": 432,
+        "descripcion": "FOCO LED APOLO 5W APBO001B \/BLISTER\/",
+        "barcode": "7404005960407",
+        "costo": 1.633,
+        "precio": 2,
+        "image": "img\/productos\/5c76bcfe262e88b32d7375859f6ee477.jpg"
+    },
+    {
+        "id": 433,
+        "descripcion": "FOCO SUSAN 13W",
+        "barcode": "7404005960575",
+        "costo": 2.415,
+        "precio": 2.7,
+        "image": "img\/productos\/d8ed19746485520ae7bb1ac17b2ce5b4.jpg"
+    },
+    {
+        "id": 437,
+        "descripcion": "FOCO LED APOLO 11W APBO004B \/BLISTER\/",
+        "barcode": "7404005960971",
+        "costo": 2.346,
+        "precio": 2.93,
+        "image": "img\/productos\/8ec5bf61432b3644866ff909625a54fc.jpg"
+    },
+    {
+        "id": 449,
+        "descripcion": "LAMPARA DE NOCHE FULGORE MARIPOSA FU0166",
+        "barcode": "7501892873534",
+        "costo": 2.254,
+        "precio": 2.93,
+        "image": "img\/productos\/d40243ef79c455174e2d8ad698a1a7c8.jpg"
+    },
+    {
+        "id": 455,
+        "descripcion": "LLORONES LUZ CARRO ART-888",
+        "barcode": "2017030100011",
+        "costo": 3.45,
+        "precio": 4.57,
+        "image": "img\/productos\/b79e01be8329114c6a1f469447d0a97d.jpg"
+    },
+    {
+        "id": 457,
+        "descripcion": "LUZ LED TECHO CARRO 12 LED 9484",
+        "barcode": "6954025670457",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/22278f726b43a4d4e7f1fe5c6c70c7dd.jpg"
+    },
+    {
+        "id": 458,
+        "descripcion": "MINI LASER EN BLISTER \/CARTON 18 UNIDADES\/",
+        "barcode": "N\/A",
+        "costo": 15.295,
+        "precio": 19.93,
+        "image": "img\/productos\/59b01d0a1f423614f57ab782ccb982b5.jpg"
+    },
+    {
+        "id": 459,
+        "descripcion": "CABLE IML AUXILIAR AUDIO 1 A 1 AYLIN-CBL-00077",
+        "barcode": "250777000776",
+        "costo": 0.805,
+        "precio": 2.32,
+        "image": "img\/productos\/dedaf8e62482b3056151327bbaf05ed3.jpg"
+    },
+    {
+        "id": 460,
+        "descripcion": "CARGADOR SAMSUNG GALAXY NOTE 4",
+        "barcode": "N\/A",
+        "costo": 2.76,
+        "precio": 4.67,
+        "image": "img\/productos\/1e94bc537e501b62735bf74736515d7b.jpg"
+    },
+    {
+        "id": 462,
+        "descripcion": "BATERIA BLISTER AG4 626",
+        "barcode": "6970905251040",
+        "costo": 1.15,
+        "precio": 2.33,
+        "image": "img\/productos\/e4a67d3b52012d4973970ddb4d3c4d8b.jpg"
+    },
+    {
+        "id": 463,
+        "descripcion": "BATERIA BLISTER AG0 379A \/GRIS\/",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 2.33,
+        "image": "img\/productos\/e13565e75b1e4116e4e8c1504d8916d0.jpg"
+    },
+    {
+        "id": 466,
+        "descripcion": "RELOJ DAMA GOMA NICOLE LEE",
+        "barcode": "N\/A",
+        "costo": 8.05,
+        "precio": 9.4,
+        "image": "img\/productos\/e13731f3cabee2e76cf827d9870c134d.jpg"
+    },
+    {
+        "id": 467,
+        "descripcion": "RELOJ DE HOMBRE CAJA ACRILICA",
+        "barcode": "N\/A",
+        "costo": 5.98,
+        "precio": 8.2,
+        "image": "img\/productos\/c6b93a40bf7dca26365cf18f6edd11b6.jpg"
+    },
+    {
+        "id": 468,
+        "descripcion": "CARGADOR 2 PIEZAS IPHONE 4\/5 AYLIN-CBL-00097",
+        "barcode": "250777000974",
+        "costo": 2.99,
+        "precio": 4.1,
+        "image": "img\/productos\/1f6800d60f9b4eb2ba81bd45d1dceeee.jpg"
+    },
+    {
+        "id": 470,
+        "descripcion": "CONTROL PARA ANDROID WJH-01-013",
+        "barcode": "N\/A",
+        "costo": 28.98,
+        "precio": 37.52,
+        "image": "img\/productos\/72b2a3df7934d3d2c44ec2ed63eb57eb.jpg"
+    },
+    {
+        "id": 472,
+        "descripcion": "CARGADOR KG800",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 2.67,
+        "image": "img\/productos\/2a3596513a15aa52559a2e9eaf2ae8e8.jpg"
+    },
+    {
+        "id": 473,
+        "descripcion": "BOCINA BLUETOOTH DOS TWITER",
+        "barcode": "N\/A",
+        "costo": 24.15,
+        "precio": 28.2,
+        "image": "img\/productos\/029b8f7e695411ff7391d9c649ad22b3.jpg"
+    },
+    {
+        "id": 474,
+        "descripcion": "BOCINA BLUETOOTH MS-148BT JHW-01-117",
+        "barcode": "N\/A",
+        "costo": 27.6,
+        "precio": 35.19,
+        "image": "img\/productos\/09407f9a5edc525fecc89f535a052043.jpg"
+    },
+    {
+        "id": 475,
+        "descripcion": "RADIO CHALLENGER CON MEMORIA CH-161DL",
+        "barcode": "N\/A",
+        "costo": 34.5,
+        "precio": 35.36,
+        "image": "img\/productos\/33cb5680b030b6090575c0549fb2d4cb.jpg"
+    },
+    {
+        "id": 476,
+        "descripcion": "BOCINA BLUETOOTH MS-132BT",
+        "barcode": "N\/A",
+        "costo": 18.4,
+        "precio": 18.86,
+        "image": "img\/productos\/0e2e216e34457229a750c0350c215cb3.jpg"
+    },
+    {
+        "id": 477,
+        "descripcion": "RADIO CHALLENGER CON MEMORIA CH-213U",
+        "barcode": "N\/A",
+        "costo": 34.5,
+        "precio": 35.36,
+        "image": "img\/productos\/d1646afbb1298b59ee1bf5837209b149.jpg"
+    },
+    {
+        "id": 478,
+        "descripcion": "TASA DIA AMISTAD 654-4",
+        "barcode": "N\/A",
+        "costo": 1.104,
+        "precio": 1.37,
+        "image": ""
+    },
+    {
+        "id": 480,
+        "descripcion": "CASCO MOTO NI\u00d1O HELMET H.L-N",
+        "barcode": "N\/A",
+        "costo": 12.65,
+        "precio": 16.42,
+        "image": "img\/productos\/cd40f0a154467cf1446a58ce21375ddd.jpg"
+    },
+    {
+        "id": 481,
+        "descripcion": "CASCO MOTO ADULTO",
+        "barcode": "N\/A",
+        "costo": 16.1,
+        "precio": 21.1,
+        "image": "img\/productos\/669244bcb7ac1aa7d2a6af0da1b94143.jpg"
+    },
+    {
+        "id": 485,
+        "descripcion": "PAPEL MATAMOSCA",
+        "barcode": "N\/A",
+        "costo": 3.22,
+        "precio": 5.83,
+        "image": "img\/productos\/370939455d5269b009c5c26fd5c0d9a6.jpg"
+    },
+    {
+        "id": 489,
+        "descripcion": "LUZ DE TECHO 3 PIEZAS LED GRANDE QT-02-COB36",
+        "barcode": "6899468995751",
+        "costo": 2.99,
+        "precio": 4.1,
+        "image": "img\/productos\/fb4fa436b6abc953c1df43a68a0af0d4.jpg"
+    },
+    {
+        "id": 490,
+        "descripcion": "CUCHILLO TRAMONTINA MANGO BLANCO WF-404",
+        "barcode": "6947290630569",
+        "costo": 1.61,
+        "precio": 2,
+        "image": "img\/productos\/2214a30b2306abfcab238488b1e217ba.jpg"
+    },
+    {
+        "id": 491,
+        "descripcion": "CUCHILLO CACHA BLANCA INOX KC40698",
+        "barcode": "6940350993413",
+        "costo": 1.955,
+        "precio": 2.26,
+        "image": "img\/productos\/cc016276bd914f49db5ffa28ae33286f.jpg"
+    },
+    {
+        "id": 492,
+        "descripcion": "LUZ TECHO CARRO UN CUATRO LED",
+        "barcode": "2016051002182",
+        "costo": 1.725,
+        "precio": 2.69,
+        "image": "img\/productos\/472042c0a8c703fe899e88520cca83f0.jpg"
+    },
+    {
+        "id": 496,
+        "descripcion": "GUANTE MOTO LARGO YM008-3",
+        "barcode": "N\/A",
+        "costo": 9.2,
+        "precio": 12.88,
+        "image": "img\/productos\/e2baf4e1abfa79ba6e403fdcb0bd1b81.jpg"
+    },
+    {
+        "id": 497,
+        "descripcion": "GUANTE MOTO CORTO KTMS-02-001",
+        "barcode": "863665102005",
+        "costo": 7.705,
+        "precio": 10.54,
+        "image": "img\/productos\/5a5063796d37a43ba96653d1944bd7d8.jpg"
+    },
+    {
+        "id": 498,
+        "descripcion": "MINI LAMPARA DE EMERGENCIA RECARGABLE SL-638A\/B",
+        "barcode": "N\/A",
+        "costo": 2.645,
+        "precio": 3.52,
+        "image": "img\/productos\/56a51ef6ee9bb79f51fde4b0fd021578.jpg"
+    },
+    {
+        "id": 499,
+        "descripcion": "MINI LAMPARA DE EMERGENCIA DE BATERIAS GS-822",
+        "barcode": "6922550618228",
+        "costo": 1.61,
+        "precio": 2.92,
+        "image": "img\/productos\/1f101696b151e82fe5a064b17232b141.jpg"
+    },
+    {
+        "id": 501,
+        "descripcion": "ADAPTADOR DE MICRO MULTIPLE",
+        "barcode": "N\/A",
+        "costo": 0.92,
+        "precio": 1.75,
+        "image": "img\/productos\/1b573cec2c095105b16bf1d4a73870a3.jpg"
+    },
+    {
+        "id": 502,
+        "descripcion": "MEMORIA MICRO SD 2GB KINGSTON TY-01-015",
+        "barcode": "N\/A",
+        "costo": 5.382,
+        "precio": 7.03,
+        "image": "img\/productos\/fc802b40b28c40255d3d23c5a752a6d0.jpg"
+    },
+    {
+        "id": 507,
+        "descripcion": "LUZ LED CARRO SMD WD",
+        "barcode": "N\/A",
+        "costo": 1.265,
+        "precio": 1.76,
+        "image": ""
+    },
+    {
+        "id": 514,
+        "descripcion": "REFLECTOR LED 10826-B92",
+        "barcode": "N\/A",
+        "costo": 82.8,
+        "precio": 105.57,
+        "image": "img\/productos\/a0c588d36ab162928f332665a6f8e27e.jpg"
+    },
+    {
+        "id": 517,
+        "descripcion": "LAMPARA RECARGABLE UNA CANDELA KM-7638",
+        "barcode": "6941335409752",
+        "costo": 8.855,
+        "precio": 12.87,
+        "image": "img\/productos\/9661078add60a1201b2fbc0323d9b532.jpg"
+    },
+    {
+        "id": 519,
+        "descripcion": "ESPEJO PEQUE\u00d1O PARA CARRO",
+        "barcode": "N\/A",
+        "costo": 0.391,
+        "precio": 0.58,
+        "image": "img\/productos\/76cb3db4b5a3ea7d8038adb3f21e51ab.jpg"
+    },
+    {
+        "id": 520,
+        "descripcion": "BOMBA DE MANO PARA INFLAR WF1005",
+        "barcode": "7501892828800",
+        "costo": 7.521,
+        "precio": 10.54,
+        "image": "img\/productos\/4ba6896561af52c17f18d87109612f82.jpg"
+    },
+    {
+        "id": 524,
+        "descripcion": "FOCO PARA MOTO B35 12V\/35W",
+        "barcode": "202090617049",
+        "costo": 0.67068,
+        "precio": 0.94,
+        "image": "img\/productos\/a0a69a3dd0865b5d22db7e5cda6791a9.jpg"
+    },
+    {
+        "id": 526,
+        "descripcion": "REGLETA GRIS 6 OULET POWER STRIP \/6 TOMAS SENCILLA\/",
+        "barcode": "6022015060118",
+        "costo": 3.105,
+        "precio": 3.8,
+        "image": "img\/productos\/dd714397d47a28cb171f50d0d0ad58c8.jpg"
+    },
+    {
+        "id": 527,
+        "descripcion": "REGLETA XTRON XT-21482",
+        "barcode": "8120314214824",
+        "costo": 3.22,
+        "precio": 4.11,
+        "image": "img\/productos\/b0424edde5e31db5b0083af6af1b5615.jpg"
+    },
+    {
+        "id": 528,
+        "descripcion": "REGLETA SUSAN SUEA037",
+        "barcode": "2332566589520",
+        "costo": 3.91,
+        "precio": 5.27,
+        "image": "img\/productos\/323769abd00668d71b7b2f623d12d77c.jpg"
+    },
+    {
+        "id": 530,
+        "descripcion": "LAPIZ DELINEADOR EVITA NEGRO",
+        "barcode": "7401005497889",
+        "costo": 0.805,
+        "precio": 0.96,
+        "image": "img\/productos\/e44b0f3c5f6b24b72df01c54add866f0.jpg"
+    },
+    {
+        "id": 531,
+        "descripcion": "LAMPARA MINI POLICIAL",
+        "barcode": "N\/A",
+        "costo": 3.818,
+        "precio": 4.7,
+        "image": "img\/productos\/c668fe9123672ce36d778aa95e1fdcbb.jpg"
+    },
+    {
+        "id": 532,
+        "descripcion": "ENCENDEDOR FENIX JS851",
+        "barcode": "6928002103991",
+        "costo": 10.074,
+        "precio": 11.75,
+        "image": "img\/productos\/63d9b2b09d6022fb369a79854892b2b0.jpg"
+    },
+    {
+        "id": 533,
+        "descripcion": "BOCINA REDONDA PEQUE\u00d1A COCO WS-633BT",
+        "barcode": "N\/A",
+        "costo": 12.65,
+        "precio": 15.27,
+        "image": "img\/productos\/061003c33b76d91c7d74d484d8ccd4b1.jpg"
+    },
+    {
+        "id": 535,
+        "descripcion": "NAVAJA DE BARBERO",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 0.78,
+        "image": "img\/productos\/4ee632752191e7ade65e5642ad682bf2.jpg"
+    },
+    {
+        "id": 537,
+        "descripcion": "MAQUINA CORTAR PELO BELLOLINI",
+        "barcode": "6958485437191",
+        "costo": 12.65,
+        "precio": 14.12,
+        "image": "img\/productos\/5b80ab191feaa6b4a6284c644b3bedb3.jpg"
+    },
+    {
+        "id": 538,
+        "descripcion": "RADIO CHALLENGER CH-8803 UAR",
+        "barcode": "N\/A",
+        "costo": 34.5,
+        "precio": 35.36,
+        "image": "img\/productos\/82229df07583cf3105c6411a613c8b43.jpg"
+    },
+    {
+        "id": 539,
+        "descripcion": "FOCO SUSAN 40W INCANDECENTE SUIN002",
+        "barcode": "7404005960445",
+        "costo": 0.506,
+        "precio": 0.59,
+        "image": "img\/productos\/85bf53ddb2918532ff97036f93accb35.jpg"
+    },
+    {
+        "id": 541,
+        "descripcion": "BOCINA MS-82BT",
+        "barcode": "860314501110",
+        "costo": 23,
+        "precio": 23.58,
+        "image": "img\/productos\/5f854c428afdaf1beea14640a840559e.jpg"
+    },
+    {
+        "id": 542,
+        "descripcion": "VIA PARA MOTO PMGZ-02-047",
+        "barcode": "865865102047",
+        "costo": 5.75,
+        "precio": 7.04,
+        "image": "img\/productos\/74962d04d9d380d54e8e78b6f04667be.jpg"
+    },
+    {
+        "id": 547,
+        "descripcion": "DESARMADOR 3 PIEZAS 6041",
+        "barcode": "N\/A",
+        "costo": 2.001,
+        "precio": 2.93,
+        "image": "img\/productos\/c8bdc15a6db73f0d6bb8365c826c7457.jpg"
+    },
+    {
+        "id": 548,
+        "descripcion": "FOCO SUSAN 45W FLUORECENTE SUAH008",
+        "barcode": "7404005960537",
+        "costo": 9.315,
+        "precio": 11.73,
+        "image": "img\/productos\/7b1a3d6047c5bd2cb998953f2a192501.jpg"
+    },
+    {
+        "id": 550,
+        "descripcion": "CONTROL SONY B\/N RM-Y173 AYLIN-CONTROL-00065",
+        "barcode": "250777000653",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/58eb94c750a9357a6932d103412fb4ce.jpg"
+    },
+    {
+        "id": 551,
+        "descripcion": "TENAZA AMARILLA 8",
+        "barcode": "N\/A",
+        "costo": 2.921,
+        "precio": 3.52,
+        "image": "img\/productos\/b4de7f476fca12d9d58d03b4a1586f02.jpg"
+    },
+    {
+        "id": 554,
+        "descripcion": "BATERIA GRANDE PARA RADIO HUAYUN \/PAR\/",
+        "barcode": "N\/A",
+        "costo": 0.782,
+        "precio": 1.05,
+        "image": "img\/productos\/073361cbd1d59b53ea6817111c09111c.jpg"
+    },
+    {
+        "id": 555,
+        "descripcion": "BATERIA GRANDE HUATAI\/HUAYUN",
+        "barcode": "N\/A",
+        "costo": 0.782,
+        "precio": 1.05,
+        "image": "img\/productos\/89109ba5ba74801cfde58019cd72f0ec.jpg"
+    },
+    {
+        "id": 557,
+        "descripcion": "TIRRO TRANSPARENTE ABRO 300 YARDAS",
+        "barcode": "250777001049",
+        "costo": 6.463,
+        "precio": 8.21,
+        "image": "img\/productos\/df643d2f4b4a1aef6b9e2c0c01bd5520.jpg"
+    },
+    {
+        "id": 558,
+        "descripcion": "ADAPTADOR DE MICRO SD",
+        "barcode": "N\/A",
+        "costo": 0.391,
+        "precio": 1.28,
+        "image": "img\/productos\/96c14760c5eed3572b8d0435eeb2c8b7.jpg"
+    },
+    {
+        "id": 559,
+        "descripcion": "CINTA REFLECTIVA \/YARDA\/",
+        "barcode": "N\/A",
+        "costo": 0.529,
+        "precio": 0.82,
+        "image": "img\/productos\/7b1b9a5201731371622ff6b7dc5ae2ab.jpg"
+    },
+    {
+        "id": 560,
+        "descripcion": "FOCO APOLO 25W CAJA CARTON",
+        "barcode": "7404005960308",
+        "costo": 1.955,
+        "precio": 2.69,
+        "image": "img\/productos\/b9a7fc0f7048350a5ef6a9f18708e48c.jpg"
+    },
+    {
+        "id": 562,
+        "descripcion": "CABLE CARGA CARRO 500 AMPERIOS \/PASAR CARGA\/",
+        "barcode": "N\/A",
+        "costo": 9.545,
+        "precio": 12.65,
+        "image": "img\/productos\/ad256af813213ccbd1feced30eebf3c1.jpg"
+    },
+    {
+        "id": 566,
+        "descripcion": "SIERRAS PARA CORTAR HIERRO",
+        "barcode": "N\/A",
+        "costo": 0.115,
+        "precio": 0.23,
+        "image": "img\/productos\/e8bb626653a1e145d93e722fb362cd2f.jpg"
+    },
+    {
+        "id": 569,
+        "descripcion": "STOP PARA MOTO",
+        "barcode": "N\/A",
+        "costo": 4.025,
+        "precio": 6.54,
+        "image": "img\/productos\/77413a980333c56a301389f0d2419461.png"
+    },
+    {
+        "id": 571,
+        "descripcion": "ANTENA CARRO T-051",
+        "barcode": "N\/A",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": "img\/productos\/b0ab255aaf9f28a5df16b738f717672d.jpg"
+    },
+    {
+        "id": 572,
+        "descripcion": "LUZ DECORATIVA MOTO 10786-B89",
+        "barcode": "N\/A",
+        "costo": 10.35,
+        "precio": 14.06,
+        "image": "img\/productos\/dcb8cdd4d9c58814b864206d500d937e.jpg"
+    },
+    {
+        "id": 574,
+        "descripcion": "LED ROLLO 5M",
+        "barcode": "8634613020067",
+        "costo": 11.5,
+        "precio": 14.34,
+        "image": "img\/productos\/9ddd2342cb7da744bf944548cbac9b87.jpg"
+    },
+    {
+        "id": 579,
+        "descripcion": "BOLSA HTECH",
+        "barcode": "N\/A",
+        "costo": 0.069,
+        "precio": 0.12,
+        "image": ""
+    },
+    {
+        "id": 580,
+        "descripcion": "CINTA REFLEXTIVA INDIVIDUAL",
+        "barcode": "N\/A",
+        "costo": 0.322,
+        "precio": 0.58,
+        "image": "img\/productos\/4caf1e43556f6dd4a9e8d340ef2a532c.jpg"
+    },
+    {
+        "id": 582,
+        "descripcion": "FOCO 2U CAJA",
+        "barcode": "N\/A",
+        "costo": 1.012,
+        "precio": 1.41,
+        "image": "img\/productos\/76be286397bb9ec5f082a668e1a0a71f.jpg"
+    },
+    {
+        "id": 584,
+        "descripcion": "USB 16 GB SAMSUNG TY-01-083",
+        "barcode": "N\/A",
+        "costo": 13.8,
+        "precio": 17.6,
+        "image": ""
+    },
+    {
+        "id": 601,
+        "descripcion": "LLAVERO CARRO",
+        "barcode": "8555222447659",
+        "costo": 1.61,
+        "precio": 2.34,
+        "image": "img\/productos\/fc943dc6be7ea7fb869c7373d6c7f3bf.jpg"
+    },
+    {
+        "id": 602,
+        "descripcion": "FOCO ROHS",
+        "barcode": "N\/A",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": ""
+    },
+    {
+        "id": 604,
+        "descripcion": "TENSOR MOTO 18-31",
+        "barcode": "8260000101516",
+        "costo": 1.725,
+        "precio": 3.49,
+        "image": "img\/productos\/8623770941bc645fa66489fbb8f02433.jpg"
+    },
+    {
+        "id": 607,
+        "descripcion": "STICKER 400215",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/9d7ba55522dd91f7a88027a09ffb6dea.jpg"
+    },
+    {
+        "id": 608,
+        "descripcion": "LUZ TRASERA DECORATIVA MOTO 10766-B89",
+        "barcode": "N\/A",
+        "costo": 10.35,
+        "precio": 14.06,
+        "image": "img\/productos\/798df35ebf6cdea453a6a3c28c721d0e.jpg"
+    },
+    {
+        "id": 609,
+        "descripcion": "PARRILLA BLANCA PEQUE\u00d1A",
+        "barcode": "N\/A",
+        "costo": 7.705,
+        "precio": 11.69,
+        "image": ""
+    },
+    {
+        "id": 610,
+        "descripcion": "PARRILLA BLANCA MEDIANA",
+        "barcode": "N\/A",
+        "costo": 8.97,
+        "precio": 14.02,
+        "image": ""
+    },
+    {
+        "id": 611,
+        "descripcion": "PARRILLA BLANCA GRANDE",
+        "barcode": "N\/A",
+        "costo": 9.89,
+        "precio": 16.35,
+        "image": ""
+    },
+    {
+        "id": 612,
+        "descripcion": "CABALLO HULE",
+        "barcode": "N\/A",
+        "costo": 10.35,
+        "precio": 15.21,
+        "image": "img\/productos\/604d17474681aa5241ded7f2eb1d6648.jpg"
+    },
+    {
+        "id": 613,
+        "descripcion": "NAVAJA WOLFOX DE 6 1\/2 PULGADAS WF1349",
+        "barcode": "7501892828121",
+        "costo": 0.966,
+        "precio": 2.32,
+        "image": "img\/productos\/223df1cfe073332df81c416cc8eb7e82.jpg"
+    },
+    {
+        "id": 616,
+        "descripcion": "RO2716 EXTENSION ELECTRICA ROTTER 3 M BLANCA",
+        "barcode": "7501892884479",
+        "costo": 2.53,
+        "precio": 3.51,
+        "image": ""
+    },
+    {
+        "id": 618,
+        "descripcion": "CUBO PARA CARRO UNA SALIDA USB",
+        "barcode": "N\/A",
+        "costo": 0.575,
+        "precio": 1.16,
+        "image": "img\/productos\/9ddb7cb6f5dd9c94829cfe37ea6408bf.jpg"
+    },
+    {
+        "id": 620,
+        "descripcion": "CONTROL REMOTO SAMSUNG TV NEGRO 00104A AYLIN-CONTROL-00063",
+        "barcode": "250777000639",
+        "costo": 1.495,
+        "precio": 2.34,
+        "image": "img\/productos\/1ea28cc38b21ec1179fd29deffecc0fc.jpg"
+    },
+    {
+        "id": 621,
+        "descripcion": "CALCULADORA CIENTIFICA FX-82MS",
+        "barcode": "6953889001825",
+        "costo": 4.945,
+        "precio": 9.32,
+        "image": "img\/productos\/5ad8a434b71ade651d1609d32c64ab1e.jpg"
+    },
+    {
+        "id": 622,
+        "descripcion": "RADIO CHALLENGER CH-11UBT",
+        "barcode": "8435330674775",
+        "costo": 28.75,
+        "precio": 30.62,
+        "image": "img\/productos\/d7f4b23114f22989090c1c33a37981c3.jpg"
+    },
+    {
+        "id": 623,
+        "descripcion": "CEPILLO NI\u00d1O TIRA RAGEL \/DOCENA\/",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/351b3935dc0a8dff98103fb059ebe853.jpg"
+    },
+    {
+        "id": 624,
+        "descripcion": "RADIO CHALLENGER CH-157U",
+        "barcode": "6978562461574",
+        "costo": 28.75,
+        "precio": 30.62,
+        "image": "img\/productos\/7027a49acbe9081d517988befd1a192a.jpg"
+    },
+    {
+        "id": 625,
+        "descripcion": "RADIO CHALLENGER CH-7801UAR",
+        "barcode": "6232584780113",
+        "costo": 28.75,
+        "precio": 35.22,
+        "image": "img\/productos\/669bee71a10acee2232f05adaf0ecf9e.jpg"
+    },
+    {
+        "id": 626,
+        "descripcion": "RADIO CHALLENGER CH-330U",
+        "barcode": "6978562463301",
+        "costo": 27.6,
+        "precio": 29.67,
+        "image": "img\/productos\/d671f753a31e3e3d83f039e637e6090b.jpg"
+    },
+    {
+        "id": 627,
+        "descripcion": "RADIO CHALLENGER CH-046TU",
+        "barcode": "2015012160046",
+        "costo": 28.75,
+        "precio": 30.62,
+        "image": "img\/productos\/214fdd0321153de0e49cf87ea62b3e64.jpg"
+    },
+    {
+        "id": 628,
+        "descripcion": "GANCHO PRENSA ROPA BAMBU",
+        "barcode": "N\/A",
+        "costo": 0.828,
+        "precio": 1.18,
+        "image": "img\/productos\/13747e43811e131c26d3eb6271883523.jpg"
+    },
+    {
+        "id": 629,
+        "descripcion": "LAMPARA DE MANO RECARGABLE F982",
+        "barcode": "7242205299824",
+        "costo": 5.06,
+        "precio": 6.45,
+        "image": "img\/productos\/5eaa2645fabb2474a0c15f9f84f04144.jpg"
+    },
+    {
+        "id": 630,
+        "descripcion": "PAQUETE DE HISOPOS GRANDE 60-1",
+        "barcode": "N\/A",
+        "costo": 5.52,
+        "precio": 7.61,
+        "image": "img\/productos\/e83d921e1c3ea71f572a1f42aed3033e.jpg"
+    },
+    {
+        "id": 631,
+        "descripcion": "HALOGENA MOTO 4 LED OY-02-397",
+        "barcode": "863251202397",
+        "costo": 3.45,
+        "precio": 4.69,
+        "image": "img\/productos\/43784c7a80006036c01f781614b727ea.jpg"
+    },
+    {
+        "id": 632,
+        "descripcion": "ALARMA DE MOTO BIKERS ALARM 11409-B95",
+        "barcode": "N\/A",
+        "costo": 25.3,
+        "precio": 35.13,
+        "image": "img\/productos\/3f1e021e700398a57e94f11dd6666985.jpg"
+    },
+    {
+        "id": 633,
+        "descripcion": "CORRECTOR \/12 UNIDADES\/",
+        "barcode": "6954178407892",
+        "costo": 5.75,
+        "precio": 7.04,
+        "image": "img\/productos\/df37018fffe580a60b2bd932e5ee56f3.jpg"
+    },
+    {
+        "id": 635,
+        "descripcion": "CASETERA \/CD PLAYER\/CDX-D4522BT",
+        "barcode": "6925871645225",
+        "costo": 29.9,
+        "precio": 49.04,
+        "image": "img\/productos\/13e2674d9a11a95c9e5fc392086f4fdd.jpg"
+    },
+    {
+        "id": 636,
+        "descripcion": "BOCINA PARA CARRO TS-G161R 16CM\/TP-1371 13CM",
+        "barcode": "N\/A",
+        "costo": 23,
+        "precio": 43.13,
+        "image": "img\/productos\/a00590af89c8934680738325c9d20ced.jpg"
+    },
+    {
+        "id": 637,
+        "descripcion": "LAPICERO YH-168 \/12 UNIDADES\/",
+        "barcode": "6937712707276",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": ""
+    },
+    {
+        "id": 638,
+        "descripcion": "MARCADOR PERMANENTE \/10 UNIDADES\/",
+        "barcode": "6946848800089",
+        "costo": 2.53,
+        "precio": 3.51,
+        "image": "img\/productos\/59b58d44669def74874f148f4c004830.jpg"
+    },
+    {
+        "id": 639,
+        "descripcion": "LAPICERO GEL YH-318 \/12 UNIDADES\/",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.05,
+        "image": "img\/productos\/07c12c3c3e89f443c4bb26bb00dc4ea3.jpg"
+    },
+    {
+        "id": 640,
+        "descripcion": "LAMPARA LED RECARGABLE DE DOS CANDELA KM-7652",
+        "barcode": "6941335410758",
+        "costo": 12.65,
+        "precio": 15.27,
+        "image": ""
+    },
+    {
+        "id": 641,
+        "descripcion": "CUCHILLO CACHA AMARILLA",
+        "barcode": "6951227500788",
+        "costo": 0.828,
+        "precio": 1.29,
+        "image": "img\/productos\/40c83eb08c997a464113e258720bb4de.jpg"
+    },
+    {
+        "id": 643,
+        "descripcion": "GANCHO PARA COLGAR ROPA \/AMERICANO\/",
+        "barcode": "N\/A",
+        "costo": 1.38,
+        "precio": 1.99,
+        "image": "img\/productos\/035f182ffbbaf137c644bb1aa7e09dcb.jpg"
+    },
+    {
+        "id": 644,
+        "descripcion": "LAMPARA DOS CANDELAS SOLAR LL-2015R",
+        "barcode": "6921700720156",
+        "costo": 7.636,
+        "precio": 9.39,
+        "image": "img\/productos\/b75c4f364dc9fefa9a8e29a9106e8ecd.jpg"
+    },
+    {
+        "id": 645,
+        "descripcion": "VENTILADOR RECARGABLE EF-6806",
+        "barcode": "N\/A",
+        "costo": 5.75,
+        "precio": 5.89,
+        "image": "img\/productos\/cbafaf3af87faf1c36e05e402a531970.jpg"
+    },
+    {
+        "id": 646,
+        "descripcion": "LAMPARA POLICIAL CHOQUE ELECTRICO 1101 S-JF-01-038",
+        "barcode": "8618047010382",
+        "costo": 9.315,
+        "precio": 14.03,
+        "image": "img\/productos\/64618fb6a64f60396789cda4c9949acc.jpg"
+    },
+    {
+        "id": 647,
+        "descripcion": "LAMPARA POLICIAL CHOQUE ELECTRICO YB-1312",
+        "barcode": "N\/A",
+        "costo": 11.5,
+        "precio": 16.39,
+        "image": "img\/productos\/7079ffb8c06e4a72c1e70c91a80721eb.jpg"
+    },
+    {
+        "id": 648,
+        "descripcion": "LAMPARA POLICIAL SIN CHOQUE 91841",
+        "barcode": "N\/A",
+        "costo": 8.602,
+        "precio": 11.71,
+        "image": "img\/productos\/c79093de72ea4b2ef26fb59dd671c3b6.jpg"
+    },
+    {
+        "id": 650,
+        "descripcion": "LAMPARA POLICIAL SIN CHOQUE DORADA \/CAJA VERDE\/",
+        "barcode": "N\/A",
+        "costo": 9.2,
+        "precio": 12.31,
+        "image": "img\/productos\/5728234d17d622c7a5693b2605d66900.jpg"
+    },
+    {
+        "id": 651,
+        "descripcion": "LAMPARA POLICIAL MANO 878 \/DON NARCISO\/",
+        "barcode": "N\/A",
+        "costo": 13.363,
+        "precio": 16.43,
+        "image": "img\/productos\/733ac55999ce18f94430f66aa47c9d13.jpg"
+    },
+    {
+        "id": 652,
+        "descripcion": "CANDADO LARGO 70MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 4.485,
+        "precio": 6.09,
+        "image": "img\/productos\/b65b09cd52e7c1b6b81a991fcb443954.jpg"
+    },
+    {
+        "id": 653,
+        "descripcion": "CANDADO LARGO 60MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 3.795,
+        "precio": 5.27,
+        "image": "img\/productos\/8adf52087de3fbca191c39932c9f34b7.jpg"
+    },
+    {
+        "id": 654,
+        "descripcion": "CANDADO LARGO 50MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 3.22,
+        "precio": 4.45,
+        "image": "img\/productos\/b36b1b89805dc3162df71ea4f752bfc3.jpg"
+    },
+    {
+        "id": 655,
+        "descripcion": "CANDADO LARGO 40MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 2.645,
+        "precio": 3.52,
+        "image": "img\/productos\/bb086ed962167dcfcb974e66f6de3b5e.jpg"
+    },
+    {
+        "id": 656,
+        "descripcion": "CANDADO LARGO 30MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 1.61,
+        "precio": 2.23,
+        "image": "img\/productos\/02b7173d04f3af025df6d3034207f95f.jpg"
+    },
+    {
+        "id": 657,
+        "descripcion": "CANDADO CORTO 70MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 4.14,
+        "precio": 5.62,
+        "image": "img\/productos\/14abef6e7e1f8222a999dcf4173dd52e.jpg"
+    },
+    {
+        "id": 658,
+        "descripcion": "CANDADO CORTO 60MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 3.68,
+        "precio": 4.92,
+        "image": "img\/productos\/7db48006170ac6c272b8849adaf0e5bc.jpg"
+    },
+    {
+        "id": 659,
+        "descripcion": "CANDADO CORTO 50MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 3.105,
+        "precio": 4.22,
+        "image": "img\/productos\/292f082a0f0ebe0131d00b47bfbeddd3.jpg"
+    },
+    {
+        "id": 660,
+        "descripcion": "CANDADO CORTO 40MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 2.53,
+        "precio": 3.4,
+        "image": "img\/productos\/ca067f515f58539c8920bc7b816d26df.jpg"
+    },
+    {
+        "id": 661,
+        "descripcion": "CANDADO CORTO 30MM ROBBL BLISTER",
+        "barcode": "N\/A",
+        "costo": 1.495,
+        "precio": 1.99,
+        "image": "img\/productos\/578b02db7488da98fb3a26695b113361.jpg"
+    },
+    {
+        "id": 662,
+        "descripcion": "RADIO PEQUE\u00d1O CON BATERIA K-258",
+        "barcode": "7800026918258",
+        "costo": 8.464,
+        "precio": 9.41,
+        "image": "img\/productos\/7d03e8679c63b258f4eeef345e1ac0fa.jpg"
+    },
+    {
+        "id": 663,
+        "descripcion": "RADIO NETANSONIC PEQUE\u00d1O",
+        "barcode": "N\/A",
+        "costo": 11.5,
+        "precio": 11.79,
+        "image": "img\/productos\/f3325d3190484a744423e51cbf65aaac.jpg"
+    },
+    {
+        "id": 665,
+        "descripcion": "TINTE EPIELLE PARA MUJER",
+        "barcode": "75743730242",
+        "costo": 2.415,
+        "precio": 3.17,
+        "image": "img\/productos\/370bbcaa6f1a8cfd081fc180da5f3ab1.jpg"
+    },
+    {
+        "id": 667,
+        "descripcion": "CARGADOR CARRO FAST CHARGIN SAMSUNG",
+        "barcode": "N\/A",
+        "costo": 5.75,
+        "precio": 10.93,
+        "image": "img\/productos\/22355892b58aaf4470c9a64c5250ee95.jpg"
+    },
+    {
+        "id": 669,
+        "descripcion": "NAVAJA PEQUE\u00d1A TRANSPARENTE",
+        "barcode": "N\/A",
+        "costo": 0.92,
+        "precio": 1.17,
+        "image": ""
+    },
+    {
+        "id": 670,
+        "descripcion": "NAVAJA DECORADA BOTA ESTUCHE CAMUFLAJEADO",
+        "barcode": "N\/A",
+        "costo": 5.75,
+        "precio": 7.62,
+        "image": ""
+    },
+    {
+        "id": 671,
+        "descripcion": "NAVAJA DECORADA CON LAMPARA ESTUCHE NEGRO",
+        "barcode": "N\/A",
+        "costo": 5.75,
+        "precio": 8.19,
+        "image": ""
+    },
+    {
+        "id": 672,
+        "descripcion": "NAVAJA DECORADA DOS BRAZOS ESTUCHE NEGRO",
+        "barcode": "N\/A",
+        "costo": 9.085,
+        "precio": 12.88,
+        "image": ""
+    },
+    {
+        "id": 674,
+        "descripcion": "EXTINTOR FIRE STOP F1-23",
+        "barcode": "6932832880182",
+        "costo": 3.68,
+        "precio": 4.69,
+        "image": ""
+    },
+    {
+        "id": 676,
+        "descripcion": "RAQUETA CON LAMPARA ABAJO APRQ-03",
+        "barcode": "6931453591293",
+        "costo": 5.75,
+        "precio": 7.96,
+        "image": "img\/productos\/f367759c087fe6f673a638e0f5f892de.jpg"
+    },
+    {
+        "id": 677,
+        "descripcion": "RAQUETA FLOR LUZ A UN LADO APRQ-02",
+        "barcode": "2112345012742",
+        "costo": 5.405,
+        "precio": 6.58,
+        "image": "img\/productos\/3eb0ee862d078102a034508a185b0719.jpg"
+    },
+    {
+        "id": 678,
+        "descripcion": "RAQUETA FLOR SIN LAMPARA APRQ-01",
+        "barcode": "6931453591286",
+        "costo": 5.06,
+        "precio": 5.88,
+        "image": "img\/productos\/fcce90c148c4be55587926ecfebb0e0d.jpg"
+    },
+    {
+        "id": 680,
+        "descripcion": "MOVABLE AUDIO SPEAKER",
+        "barcode": "N\/A",
+        "costo": 14.95,
+        "precio": 21.07,
+        "image": ""
+    },
+    {
+        "id": 683,
+        "descripcion": "MINI SPEAKER BLANCO\/NEGRO 3 BARRAS DE COLORES",
+        "barcode": "N\/A",
+        "costo": 16.1,
+        "precio": 21.1,
+        "image": ""
+    },
+    {
+        "id": 684,
+        "descripcion": "CINTA REFLECTIVA EN TIRAS DELGADAS",
+        "barcode": "N\/A",
+        "costo": 2.484,
+        "precio": 2.94,
+        "image": ""
+    },
+    {
+        "id": 685,
+        "descripcion": "LAMPARA RECARGABLE 6199 PUNTA GRIS",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": ""
+    },
+    {
+        "id": 690,
+        "descripcion": "LAMPARA RECARGABLE SULI010",
+        "barcode": "7404005960841",
+        "costo": 2.415,
+        "precio": 3.51,
+        "image": "img\/productos\/6da82e0a69c3537e65e779f61d3a8a07.jpg"
+    },
+    {
+        "id": 694,
+        "descripcion": "FOCO COCO PEQUE\u00d1O 15 WATT",
+        "barcode": "8613212110027",
+        "costo": 1.725,
+        "precio": 1.77,
+        "image": ""
+    },
+    {
+        "id": 695,
+        "descripcion": "FOCO COCO GRANDE 24 WATT",
+        "barcode": "861321211010",
+        "costo": 1.725,
+        "precio": 1.77,
+        "image": ""
+    },
+    {
+        "id": 696,
+        "descripcion": "ENCENDEDOR MULTIUSO WOLFOX WF9729",
+        "barcode": "7501892843025",
+        "costo": 2.76,
+        "precio": 3.51,
+        "image": "img\/productos\/7f4b8b483892a23df4fbb587c3e13744.jpg"
+    },
+    {
+        "id": 698,
+        "descripcion": "MASCON DE ALAMBRE DURAMAX JML5012 \/CARTON 12 UNIDADES\/",
+        "barcode": "6922410273178",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/62d27a41a15003cd4eb4e8efbbe0a627.jpg"
+    },
+    {
+        "id": 699,
+        "descripcion": "MASCON DE ALAMBRE DURAMAX JML5024 \/EMPAQUE 6 UNIDADES\/",
+        "barcode": "6922410273192",
+        "costo": 1.15,
+        "precio": 1.75,
+        "image": "img\/productos\/ebebab9773fedc712c8d79c4e78120d1.jpg"
+    },
+    {
+        "id": 700,
+        "descripcion": "ROTOMARTILLO WOLFOX WF9654",
+        "barcode": "7501892843339",
+        "costo": 46.69,
+        "precio": 58.67,
+        "image": "img\/productos\/10fd85449bcb438460d2830e00492b7d.png"
+    },
+    {
+        "id": 701,
+        "descripcion": "CLAVIJA FU0266 BLANCA",
+        "barcode": "7501892873886",
+        "costo": 0.874,
+        "precio": 1.17,
+        "image": "img\/productos\/71f8f427f5e0badf0054ce6bd937e99c.jpg"
+    },
+    {
+        "id": 703,
+        "descripcion": "PORTABLE SPEAKER DOS BOCINAS",
+        "barcode": "N\/A",
+        "costo": 27.6,
+        "precio": 32.89,
+        "image": ""
+    },
+    {
+        "id": 704,
+        "descripcion": "RAQUETA MATA MOSQUITOS IML SIN LUZ HG-MM1",
+        "barcode": "6957153100870",
+        "costo": 4.853,
+        "precio": 5.3,
+        "image": "img\/productos\/30b6cc2cd6cc89c6730797b3d6dc7527.jpg"
+    },
+    {
+        "id": 705,
+        "descripcion": "LAMPARA RECARGABLE PALITU PA-3118",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 3.51,
+        "image": ""
+    },
+    {
+        "id": 710,
+        "descripcion": "FOCO LED 3U 7W LED-ES-3U7W",
+        "barcode": "6902016103130",
+        "costo": 3.036,
+        "precio": 3.76,
+        "image": "img\/productos\/07774c1ec4df50ff54c3d526ff012cc4.jpg"
+    },
+    {
+        "id": 711,
+        "descripcion": "FOCO LED ESPIRAL 7W LED-ES-7W CFL",
+        "barcode": "6902016103116",
+        "costo": 3.22,
+        "precio": 3.99,
+        "image": "img\/productos\/808b1838ee6c951304f5a638583d1249.jpg"
+    },
+    {
+        "id": 712,
+        "descripcion": "RELOJ DAMA REBAJADO GOMA",
+        "barcode": "N\/A",
+        "costo": 5.888,
+        "precio": 7.06,
+        "image": "img\/productos\/28ad2f1ca650e387aa64a9ddadd2ee0f.jpg"
+    },
+    {
+        "id": 713,
+        "descripcion": "FOCO LED ESPIRAL 9W LED-ES-9W",
+        "barcode": "6920151126029",
+        "costo": 2.875,
+        "precio": 3.6,
+        "image": ""
+    },
+    {
+        "id": 718,
+        "descripcion": "CEPILLO DE DIENTE ACRILICO",
+        "barcode": "N\/A",
+        "costo": 6.21,
+        "precio": 8.2,
+        "image": ""
+    },
+    {
+        "id": 719,
+        "descripcion": "NAIPE",
+        "barcode": "N\/A",
+        "costo": 0.46,
+        "precio": 0.7,
+        "image": ""
+    },
+    {
+        "id": 720,
+        "descripcion": "PANEL CIRCULAR 3W",
+        "barcode": "N\/A",
+        "costo": 3.128,
+        "precio": 3.53,
+        "image": "img\/productos\/6789d2f1bd384fa8516abedb141de41a.jpg"
+    },
+    {
+        "id": 721,
+        "descripcion": "PANEL CIRCULAR 6W",
+        "barcode": "N\/A",
+        "costo": 4.163,
+        "precio": 4.7,
+        "image": ""
+    },
+    {
+        "id": 722,
+        "descripcion": "PANEL CIRCULAR 9W",
+        "barcode": "N\/A",
+        "costo": 6.256,
+        "precio": 7.06,
+        "image": ""
+    },
+    {
+        "id": 723,
+        "descripcion": "PANEL CIRCULAR SUSAN 12W LED SUPR012",
+        "barcode": "N\/A",
+        "costo": 8.05,
+        "precio": 9.98,
+        "image": "img\/productos\/24ea1e60738517c2666d7ef7ba4b0bef.jpg"
+    },
+    {
+        "id": 724,
+        "descripcion": "CABLE COAXIAL PARA ANTENA",
+        "barcode": "N\/A",
+        "costo": 0.207,
+        "precio": 0.58,
+        "image": ""
+    },
+    {
+        "id": 725,
+        "descripcion": "ANTENA IML PEQUE\u00d1A SIN CABLE",
+        "barcode": "N\/A",
+        "costo": 9.269,
+        "precio": 11.74,
+        "image": "img\/productos\/eaa3a08979b1e9fe9acf2948f35744b7.jpg"
+    },
+    {
+        "id": 727,
+        "descripcion": "FOCO APOLO 11W BR",
+        "barcode": "N\/A",
+        "costo": 1.38,
+        "precio": 1.41,
+        "image": "img\/productos\/ac8cd06630c8bea3d927b75de49c2449.jpg"
+    },
+    {
+        "id": 728,
+        "descripcion": "BOCINA BLUETOOTH MS-133BT",
+        "barcode": "N\/A",
+        "costo": 16.56,
+        "precio": 20.54,
+        "image": "img\/productos\/1299e5e884d46ba886e6fe75a46cc69b.jpg"
+    },
+    {
+        "id": 729,
+        "descripcion": "RELOJ METALICO",
+        "barcode": "N\/A",
+        "costo": 16.1,
+        "precio": 16.5,
+        "image": ""
+    },
+    {
+        "id": 732,
+        "descripcion": "RADIO KNSTAR KK-9",
+        "barcode": "6940351100162",
+        "costo": 12.65,
+        "precio": 15.27,
+        "image": "img\/productos\/da1b6c106fee123e7b74ee2467815bf3.png"
+    },
+    {
+        "id": 733,
+        "descripcion": "VENENO PARA CUCARACHA GREEN LEAF GLE2001",
+        "barcode": "6932271700461",
+        "costo": 13.8,
+        "precio": 18.74,
+        "image": "img\/productos\/9a4b2d86d047e72a5d72a143167a32bb.JPG"
+    },
+    {
+        "id": 734,
+        "descripcion": "LAMPARA RECARGABLE JUANAI JA-1908",
+        "barcode": "7889865419089",
+        "costo": 3.818,
+        "precio": 4.7,
+        "image": "img\/productos\/b8341abe3324dcbb32aaea7543352c53.jpg"
+    },
+    {
+        "id": 735,
+        "descripcion": "16 GB KINGSTON",
+        "barcode": "N\/A",
+        "costo": 16.1,
+        "precio": 16.5,
+        "image": ""
+    },
+    {
+        "id": 736,
+        "descripcion": "SAMSUNG TY-01-082",
+        "barcode": "N\/A",
+        "costo": 17.25,
+        "precio": 17.68,
+        "image": ""
+    },
+    {
+        "id": 737,
+        "descripcion": "JINA SPORT",
+        "barcode": "N\/A",
+        "costo": 2.415,
+        "precio": 3.51,
+        "image": ""
+    },
+    {
+        "id": 738,
+        "descripcion": "USB 8G HP V250W FLASH DRIVE",
+        "barcode": "N\/A",
+        "costo": 8.97,
+        "precio": 11.72,
+        "image": "img\/productos\/87b5f9221378e6547666623210aa7fac.jpg"
+    },
+    {
+        "id": 739,
+        "descripcion": "PULPO CORTO 3 PUNTAS",
+        "barcode": "N\/A",
+        "costo": 2.76,
+        "precio": 4.67,
+        "image": "img\/productos\/1d0b7d71f7d9ffed96ef3b442d8904fc.jpg"
+    },
+    {
+        "id": 740,
+        "descripcion": "USB 4G HP V250W FLASH DRIVE",
+        "barcode": "N\/A",
+        "costo": 7.82,
+        "precio": 10.55,
+        "image": "img\/productos\/dcea11fbc0a67ce540665f663ab92dce.jpg"
+    },
+    {
+        "id": 742,
+        "descripcion": "CABLE DUPLEX ROJO-NEGRO SONIDO \/METRO\/",
+        "barcode": "N\/A",
+        "costo": 0.184,
+        "precio": 0.81,
+        "image": "img\/productos\/6a938cdb3f329a01a8c5814ed3ae6e2c.jpg"
+    },
+    {
+        "id": 743,
+        "descripcion": "GALAXY BOLSA",
+        "barcode": "N\/A",
+        "costo": 3.45,
+        "precio": 3.54,
+        "image": ""
+    },
+    {
+        "id": 744,
+        "descripcion": "MS-192 SPEAK MODEL",
+        "barcode": "N\/A",
+        "costo": 23,
+        "precio": 23.58,
+        "image": ""
+    },
+    {
+        "id": 745,
+        "descripcion": "MS-38 SPEAK",
+        "barcode": "N\/A",
+        "costo": 40.48,
+        "precio": 51.61,
+        "image": "img\/productos\/406896c064c3b905e01434be10cf7f0f.jpg"
+    },
+    {
+        "id": 749,
+        "descripcion": "CONTROL DE CAJA CABLE GDRC-400T AYLIN-CONTROL-00055",
+        "barcode": "250777000554",
+        "costo": 6.9,
+        "precio": 8.22,
+        "image": "img\/productos\/2908cc2bad2ebaf006aafa6cfad8d8cc.jpg"
+    },
+    {
+        "id": 750,
+        "descripcion": "PITO EN FORMA TROMPETA",
+        "barcode": "N\/A",
+        "costo": 6.9,
+        "precio": 10.52,
+        "image": ""
+    },
+    {
+        "id": 751,
+        "descripcion": "DESTAPA CA\u00d1OS WOLFOX WF1696",
+        "barcode": "7501892816661",
+        "costo": 1.932,
+        "precio": 3.5,
+        "image": ""
+    },
+    {
+        "id": 753,
+        "descripcion": "FOCO APOLO 20W 3U APAH-005",
+        "barcode": "7404005960216",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": "img\/productos\/66dc7775cd8fb3c4de613403ca36f8be.jpg"
+    },
+    {
+        "id": 754,
+        "descripcion": "CENTRAL DOOR LOCK SYSTEM\/CIERRE CENTRAL",
+        "barcode": "N\/A",
+        "costo": 19.78,
+        "precio": 50.17,
+        "image": "img\/productos\/b35f3343ea722d28da3a8ff87909d327.jpg"
+    },
+    {
+        "id": 755,
+        "descripcion": "ACEITE 3 EN 1",
+        "barcode": "N\/A",
+        "costo": 0.958318,
+        "precio": 0.99,
+        "image": ""
+    },
+    {
+        "id": 756,
+        "descripcion": "CONTROL RCA 7464M AYLIN-CONTROL-00069",
+        "barcode": "250777000691",
+        "costo": 1.219,
+        "precio": 2.33,
+        "image": "img\/productos\/84bf08557fad9edc47c241a0ceabc29b.jpg"
+    },
+    {
+        "id": 757,
+        "descripcion": "CEPILLO NI\u00d1O SAN-A E328-2",
+        "barcode": "6934741706065",
+        "costo": 8.05,
+        "precio": 10.55,
+        "image": ""
+    },
+    {
+        "id": 758,
+        "descripcion": "FRANELA PARA CARRO",
+        "barcode": "N\/A",
+        "costo": 1.196,
+        "precio": 1.55,
+        "image": ""
+    },
+    {
+        "id": 759,
+        "descripcion": "CRICO METALICO 16 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.691,
+        "precio": 3.52,
+        "image": ""
+    },
+    {
+        "id": 760,
+        "descripcion": "CRICO METALICO 18 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": ""
+    },
+    {
+        "id": 761,
+        "descripcion": "CRICO METALICO 20 PULGADAS",
+        "barcode": "N\/A",
+        "costo": 2.691,
+        "precio": 3.52,
+        "image": ""
+    },
+    {
+        "id": 762,
+        "descripcion": "MATA MOSCA PLASTICO",
+        "barcode": "N\/A",
+        "costo": 6.9,
+        "precio": 10.52,
+        "image": "img\/productos\/1ae751d8e1cb73aa1dd491fc7dc01ef9.jpg"
+    },
+    {
+        "id": 765,
+        "descripcion": "CUTTER KNIFE",
+        "barcode": "6911866860629",
+        "costo": 1.15,
+        "precio": 1.94,
+        "image": "img\/productos\/bd9db2434b22237b7117cd364cdeb5b0.jpg"
+    },
+    {
+        "id": 769,
+        "descripcion": "CUCHILLO 8 PULGADAS WOLFOX CACHA NEGRA WF1714",
+        "barcode": "7501892803258",
+        "costo": 2.162,
+        "precio": 2.93,
+        "image": "img\/productos\/6cb74674f5180a78e968850b41fbdc15.jpg"
+    },
+    {
+        "id": 772,
+        "descripcion": "LAMPARA DE DOS CANDELA SHUNSHI SS-7021 LI021",
+        "barcode": "6944031219328",
+        "costo": 2.3,
+        "precio": 2.93,
+        "image": "img\/productos\/9f5a75c6da8b0c89ffef635e665d04f7.jpg"
+    },
+    {
+        "id": 773,
+        "descripcion": "CAMPING RECHARGEABLE 6 1 LED SH-5800T",
+        "barcode": "N\/A",
+        "costo": 4.83,
+        "precio": 5.87,
+        "image": "img\/productos\/e12623482732c06fa80e80c3cd204a25.jpg"
+    },
+    {
+        "id": 774,
+        "descripcion": "LAMPARA DE BATERIA FADA FD-828",
+        "barcode": "N\/A",
+        "costo": 1.242,
+        "precio": 1.55,
+        "image": ""
+    },
+    {
+        "id": 775,
+        "descripcion": "MH-1939",
+        "barcode": "N\/A",
+        "costo": 8.602,
+        "precio": 12.86,
+        "image": ""
+    },
+    {
+        "id": 777,
+        "descripcion": "LAMPARA DE BATERIA F-2",
+        "barcode": "N\/A",
+        "costo": 1.334,
+        "precio": 1.55,
+        "image": ""
+    },
+    {
+        "id": 778,
+        "descripcion": "LAMPARA DE BATERIA 5825",
+        "barcode": "N\/A",
+        "costo": 1.334,
+        "precio": 1.55,
+        "image": ""
+    },
+    {
+        "id": 781,
+        "descripcion": "LAMPARA DE BATERIA CM-1617",
+        "barcode": "N\/A",
+        "costo": 1.426,
+        "precio": 1.75,
+        "image": "img\/productos\/be367719352a436f1a194a41b873e182.jpg"
+    },
+    {
+        "id": 782,
+        "descripcion": "CABLE HDMI",
+        "barcode": "N\/A",
+        "costo": 1.265,
+        "precio": 2.33,
+        "image": "img\/productos\/310bad265bd90da09d9f750a32d490b7.jpg"
+    },
+    {
+        "id": 783,
+        "descripcion": "CABLE USB GALAXY NOTE 3 D1609-H16",
+        "barcode": "N\/A",
+        "costo": 2.392,
+        "precio": 6.13,
+        "image": "img\/productos\/cd88c2eb01d6943826f5a1cede4d2b49.jpg"
+    },
+    {
+        "id": 784,
+        "descripcion": "CARGADOR FAST CHARGING 2.0 ZY-03",
+        "barcode": "6912345678902",
+        "costo": 14.95,
+        "precio": 18.77,
+        "image": "img\/productos\/b4ee4bf03fb958ec830ca1ef5979e75b.jpg"
+    },
+    {
+        "id": 785,
+        "descripcion": "USB BLUETOOTH D3338-H16",
+        "barcode": "N\/A",
+        "costo": 8.395,
+        "precio": 14.01,
+        "image": "img\/productos\/5f8f5ff5dfbac8facc54cb941a6c398f.jpg"
+    },
+    {
+        "id": 786,
+        "descripcion": "ADAPTADOR DE ANDROI A IPHONE",
+        "barcode": "N\/A",
+        "costo": 2.392,
+        "precio": 4.66,
+        "image": "img\/productos\/a539ff0f7a5d241499aa05df69b91d66.jpg"
+    },
+    {
+        "id": 791,
+        "descripcion": "CONTROL REMOTO UNIVERSAL JS-6212A",
+        "barcode": "6936420900238",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": "img\/productos\/39fa59431cc879e13f3c6e12733f9807.jpg"
+    },
+    {
+        "id": 792,
+        "descripcion": "PROTECTOR PARA TABLET GRANDE FASHION CASE AR-01-208",
+        "barcode": "8618009012089",
+        "costo": 10.35,
+        "precio": 10.61,
+        "image": "img\/productos\/eecf208dd6c66525841a153da1c7dcc9.jpg"
+    },
+    {
+        "id": 794,
+        "descripcion": "MOUSE OPTICAL GAME JX-01-005",
+        "barcode": "N\/A",
+        "costo": 4.37,
+        "precio": 6.78,
+        "image": "img\/productos\/37fb76d779609da5b657c7da0c6abd9f.jpg"
+    },
+    {
+        "id": 796,
+        "descripcion": "FLASHLIGHT EARPICK OIDOS CW3188",
+        "barcode": "N\/A",
+        "costo": 0.575,
+        "precio": 1.74,
+        "image": "img\/productos\/f41df8b3eab8fb4f22ac1d12d27e1384.jpg"
+    },
+    {
+        "id": 797,
+        "descripcion": "CEPILLO TIRA LANSHARE FOCUS",
+        "barcode": "6970157246986",
+        "costo": 2.898,
+        "precio": 3.75,
+        "image": ""
+    },
+    {
+        "id": 798,
+        "descripcion": "LED DAYTIME RUNNING LIGHT DOS BARRAS",
+        "barcode": "6899468995713",
+        "costo": 6.325,
+        "precio": 10.51,
+        "image": "img\/productos\/69d8affda4f02a7d24475517a04e9c09.jpg"
+    },
+    {
+        "id": 799,
+        "descripcion": "MAX III PRESTOBARBA",
+        "barcode": "6906008259485",
+        "costo": 3.749,
+        "precio": 5.84,
+        "image": "img\/productos\/e73aae4339b89f52cdaccbe79f912431.jpg"
+    },
+    {
+        "id": 800,
+        "descripcion": "MARCADOR FLUORESCENT CT-700",
+        "barcode": "6936063817009",
+        "costo": 1.495,
+        "precio": 2.22,
+        "image": ""
+    },
+    {
+        "id": 801,
+        "descripcion": "MS-189BT SPEAK JWL-01-082",
+        "barcode": "8899145010829",
+        "costo": 32.2,
+        "precio": 39.9,
+        "image": "img\/productos\/59931173239ea9435ae0dd5461d824c7.jpg"
+    },
+    {
+        "id": 802,
+        "descripcion": "MS-201BT SPEAK JWL-01-075",
+        "barcode": "8899145010751",
+        "costo": 23,
+        "precio": 31.63,
+        "image": "img\/productos\/84480acd19343ca6993546312a3b1380.jpg"
+    },
+    {
+        "id": 803,
+        "descripcion": "BOCINA DOS TWITTER MS-185BT\/MS-187BT",
+        "barcode": "8657102011058",
+        "costo": 20.7,
+        "precio": 24.67,
+        "image": "img\/productos\/aae706014d4d1a6386a46782d7d679ae.jpg"
+    },
+    {
+        "id": 804,
+        "descripcion": "PORTABLE MULTI BAND RADIO HY-916BT",
+        "barcode": "6902016019165",
+        "costo": 27.6,
+        "precio": 39.79,
+        "image": "img\/productos\/45213c17f9cd8e33e971df3d65a829da.jpg"
+    },
+    {
+        "id": 805,
+        "descripcion": "BOCINA BLUETOOTH MS-164BT",
+        "barcode": "8899145010454",
+        "costo": 29.9,
+        "precio": 30.65,
+        "image": "img\/productos\/b4244a2e426aeabd55dc50e3a444729e.jpg"
+    },
+    {
+        "id": 806,
+        "descripcion": "ANTENA GRANDE IML",
+        "barcode": "N\/A",
+        "costo": 25.392,
+        "precio": 30.53,
+        "image": ""
+    },
+    {
+        "id": 807,
+        "descripcion": "REGLETA FUSSION PBR-4506",
+        "barcode": "5999542240126",
+        "costo": 2.76,
+        "precio": 3.52,
+        "image": "img\/productos\/b451fbc8bbe76c1f129df59ef4895d71.jpg"
+    },
+    {
+        "id": 808,
+        "descripcion": "CARGADOR SAMSUNG 3 PIEZAS TECHNO STORE \/CAJA\/",
+        "barcode": "861949701146",
+        "costo": 2.07,
+        "precio": 3.5,
+        "image": "img\/productos\/a8e6f7d11ab54007340ce72a0514fa4f.png"
+    },
+    {
+        "id": 810,
+        "descripcion": "BARRA LED 18W SUSAN",
+        "barcode": "N\/A",
+        "costo": 23,
+        "precio": 23.58,
+        "image": "img\/productos\/3e5333f2c07bf21c5ab4830855d40f5d.jpg"
+    },
+    {
+        "id": 811,
+        "descripcion": "WEAVING CAP JY37037",
+        "barcode": "6936773100101",
+        "costo": 1.495,
+        "precio": 1.76,
+        "image": "img\/productos\/760331a6d36b4911350d09e68dec059b.jpg"
+    },
+    {
+        "id": 812,
+        "descripcion": "WEAVING CAP BARATO",
+        "barcode": "N\/A",
+        "costo": 8.625,
+        "precio": 10.57,
+        "image": "img\/productos\/1af020187efc7b2ebb2a318e3301d301.jpg"
+    },
+    {
+        "id": 813,
+        "descripcion": "PROTECTOR DE PUERTA PLASTICO METRO",
+        "barcode": "N\/A",
+        "costo": 0.529,
+        "precio": 0.82,
+        "image": "img\/productos\/0df9cfcc4a36f3c5353fe036375abd45.jpg"
+    },
+    {
+        "id": 826,
+        "descripcion": "FORRO DE PUERTA GRUESO METRO",
+        "barcode": "N\/A",
+        "costo": 2.875,
+        "precio": 3.67,
+        "image": ""
+    },
+    {
+        "id": 830,
+        "descripcion": "COVER UNIVERSAL PARA CELULAR",
+        "barcode": "N\/A",
+        "costo": 1.61,
+        "precio": 2.34,
+        "image": ""
+    },
+    {
+        "id": 838,
+        "descripcion": "CONTROL PLASMA LG AKB72915208 AYLIN-CONTROL-00074",
+        "barcode": "250777000745",
+        "costo": 2.99,
+        "precio": 4.1,
+        "image": "img\/productos\/ce38c2a8506d6043f4d9254cfb178167.jpg"
+    },
+    {
+        "id": 839,
+        "descripcion": "CONTROL PANASONIC PLASMA RM-D720 AYLIN-CONTROL-000118",
+        "barcode": "250777001186",
+        "costo": 2.185,
+        "precio": 3.5,
+        "image": "img\/productos\/f2537075ff2a4ddfd4af999e71665694.jpg"
+    },
+    {
+        "id": 840,
+        "descripcion": "CARGADOR 6101 COCO YS-01-040",
+        "barcode": "861796001040",
+        "costo": 1.38,
+        "precio": 2.33,
+        "image": "img\/productos\/850928a5a39da8bfe56a82ee2be7f179.jpg"
+    },
+    {
+        "id": 843,
+        "descripcion": "FOCO APOLO LED EMERGENCIA 9W APBE003",
+        "barcode": "7404005970093",
+        "costo": 5.52,
+        "precio": 7.04,
+        "image": "img\/productos\/cbf67475c2dbd2f2edd6b1aa78d8cf7d.jpg"
+    },
+    {
+        "id": 844,
+        "descripcion": "POWER BANK SAMSUNG 20000 TY-01-060",
+        "barcode": "8678173070605",
+        "costo": 17.25,
+        "precio": 23.05,
+        "image": "img\/productos\/3066a337e7116f5d4ea2757027f13335.jpg"
+    },
+    {
+        "id": 845,
+        "descripcion": "ROSCA PARA FOCO EMERGENCIA AYLIN-CBL-000138",
+        "barcode": "250777001384",
+        "costo": 0.253,
+        "precio": 0.58,
+        "image": "img\/productos\/b178e653e09889b96cae31601a03e4e0.png"
+    },
+    {
+        "id": 848,
+        "descripcion": "AC ADAPTER D-S LITE XD-01-222",
+        "barcode": "8618051012228",
+        "costo": 1.725,
+        "precio": 2.92,
+        "image": "img\/productos\/e3602935bbb2f4bc3fe5972d67f7eabe.jpg"
+    },
+    {
+        "id": 849,
+        "descripcion": "MERHEJE BASIC PINZA 12 UNIDADES",
+        "barcode": "7896075701040",
+        "costo": 3.68,
+        "precio": 4.69,
+        "image": "img\/productos\/23d3d2bd11ca3f0e2133f7b45a338f8d.jpg"
+    },
+    {
+        "id": 850,
+        "descripcion": "BOLSA REGALO",
+        "barcode": "N\/A",
+        "costo": 11.5,
+        "precio": 11.79,
+        "image": "img\/productos\/ca995400bce0ac78a3f0d2a88991bc46.jpg"
+    },
+    {
+        "id": 851,
+        "descripcion": "FOCO DE 15WTT 3B",
+        "barcode": "N\/A",
+        "costo": 2.53,
+        "precio": 2.59,
+        "image": "img\/productos\/4dc6b56ab2fa85c8d6b183fb365ff617.jpg"
+    },
+    {
+        "id": 854,
+        "descripcion": "CEPILLO NI\u00d1O SAN-A E6501 12 PIEZAS",
+        "barcode": "6934741705211",
+        "costo": 4.37,
+        "precio": 5.86,
+        "image": "img\/productos\/d955ec53f041ec3185727e2468c13198.jpg"
+    },
+    {
+        "id": 856,
+        "descripcion": "BORN TO HAVE LUZ LED USB",
+        "barcode": "6941797965360",
+        "costo": 0.805,
+        "precio": 1.75,
+        "image": "img\/productos\/64d0870a896cb5d9f78e2d9032d46dfb.jpg"
+    },
+    {
+        "id": 857,
+        "descripcion": "TERMO TERMICO GRANDE",
+        "barcode": "N\/A",
+        "costo": 3.45,
+        "precio": 4.69,
+        "image": "img\/productos\/a4eec61b118c8b7df57a14df6c73bd87.png"
+    },
+    {
+        "id": 858,
+        "descripcion": "RELOJ CON ALARMA",
+        "barcode": "N\/A",
+        "costo": 1.449,
+        "precio": 3.48,
+        "image": "img\/productos\/810f1e98ba424c18e2fd062eb4dbb165.jpg"
+    },
+    {
+        "id": 859,
+        "descripcion": "CABLE V8 COCO HRDZ-01-171",
+        "barcode": "86194901171",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": "img\/productos\/af3a00b4faf4a92f7df42c87ed561331.jpg"
+    },
+    {
+        "id": 860,
+        "descripcion": "CABLE GRUESO IPHONE 4 BLANCO AYLIN-CBL-000122",
+        "barcode": "250777001223",
+        "costo": 2.07,
+        "precio": 2.35,
+        "image": "img\/productos\/4f5ba62402217c7a111cf64866b77c06.jpg"
+    },
+    {
+        "id": 863,
+        "descripcion": "CAR ADAPTER IPHONE 4 BLANCO",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 2.36,
+        "image": "img\/productos\/fabb7d71109cf0f39a9413615bdcaffb.jpg"
+    },
+    {
+        "id": 864,
+        "descripcion": "CAR ADAPTER IPHONE 5\/6 AYLIN-CBL-00098",
+        "barcode": "250777000981",
+        "costo": 2.3,
+        "precio": 2.36,
+        "image": "img\/productos\/f59e5a3a98350c8f21ab5f1660b7807f.jpg"
+    },
+    {
+        "id": 865,
+        "descripcion": "LED PANEL LIGHT 3W",
+        "barcode": "N\/A",
+        "costo": 3.128,
+        "precio": 5.25,
+        "image": "img\/productos\/df687bad1a8eea347dc40c2a23dd541a.jpg"
+    },
+    {
+        "id": 866,
+        "descripcion": "LED PANEL LIGHT 9W",
+        "barcode": "N\/A",
+        "costo": 6.256,
+        "precio": 8.21,
+        "image": "img\/productos\/45eec72e783931d1278d6576992a9596.jpg"
+    },
+    {
+        "id": 867,
+        "descripcion": "RADIO USB SOEWEL SW-908UT ZDRJ-01-028",
+        "barcode": "867667101028",
+        "costo": 12.88,
+        "precio": 15.27,
+        "image": "img\/productos\/1144f25d7d56595699652ca27bd7d42a.jpg"
+    },
+    {
+        "id": 868,
+        "descripcion": "RADIO USB SOEWEL SW-9016UT ZDRJ-01-031",
+        "barcode": "867667101031",
+        "costo": 12.88,
+        "precio": 15.27,
+        "image": "img\/productos\/e565beb54e4f01b82e6f4b881a65e578.jpg"
+    },
+    {
+        "id": 869,
+        "descripcion": "SELFI MINI MONOPOD ZDRA-01-013",
+        "barcode": "868667101013",
+        "costo": 2.53,
+        "precio": 3.74,
+        "image": "img\/productos\/5b91a30a2726b875c2e729b3a84be3d6.jpg"
+    },
+    {
+        "id": 871,
+        "descripcion": "LAMPARA DE BATERIA DX-6569",
+        "barcode": "6952415765682",
+        "costo": 1.334,
+        "precio": 1.55,
+        "image": ""
+    },
+    {
+        "id": 872,
+        "descripcion": "EXTENSION 25FT PROW CON REGLETA",
+        "barcode": "N\/A",
+        "costo": 7.245,
+        "precio": 10.53,
+        "image": "img\/productos\/9d88ef61bb7f0c5b18b9302fe400c85a.jpg"
+    },
+    {
+        "id": 873,
+        "descripcion": "CARGADOR INALAMBRICO FANTASY WIRELESS CHARGER HRDZ-01-138",
+        "barcode": "861949701138",
+        "costo": 20.7,
+        "precio": 35.02,
+        "image": "img\/productos\/14534abfc7d84a3bb8f642e94645fe95.jpg"
+    },
+    {
+        "id": 874,
+        "descripcion": "LAMPARA RECARGABLE SS-837",
+        "barcode": "6944031229136",
+        "costo": 2.484,
+        "precio": 3.51,
+        "image": "img\/productos\/d81f4571f3c23cb2754e5ae2b99a4f96.jpg"
+    },
+    {
+        "id": 875,
+        "descripcion": "CAR UNIVERSAL HOLDER 9496-B93",
+        "barcode": "N\/A",
+        "costo": 5.175,
+        "precio": 7.03,
+        "image": "img\/productos\/14b3328978531253d1d44daba02cb06d.jpg"
+    },
+    {
+        "id": 876,
+        "descripcion": "BARRA LED CE-6561 180W",
+        "barcode": "N\/A",
+        "costo": 87.4,
+        "precio": 105.68,
+        "image": "img\/productos\/7369c57e93ecc36fa9d462daecb683c8.jpg"
+    },
+    {
+        "id": 878,
+        "descripcion": "CONTROL PLASMA SAMSUNG URC-77 AYLIN-CONTROL-00073",
+        "barcode": "250777000738",
+        "costo": 2.99,
+        "precio": 4.67,
+        "image": "img\/productos\/9b1f024cfe2084df069c69fc4aaa4409.JPG"
+    },
+    {
+        "id": 879,
+        "descripcion": "CONTROL PLASMA SONY RM-GA019 AYLIN-CONTROL-00072",
+        "barcode": "250117000121",
+        "costo": 2.99,
+        "precio": 4.67,
+        "image": "img\/productos\/9337ad3b4be33cba08c0c4a0e4048807.jpg"
+    },
+    {
+        "id": 881,
+        "descripcion": "CABLE HDMI 1.8 M COMPATIBLE CON PS3 ZYT-01-016",
+        "barcode": "861805401016",
+        "costo": 4.83,
+        "precio": 7.02,
+        "image": "img\/productos\/1d573f12bd37191eb11c5bcf5f987eef.jpg"
+    },
+    {
+        "id": 884,
+        "descripcion": "TELEFONO CON IDENTIFICADOR DE LLAMADA K 302",
+        "barcode": "7896637626217",
+        "costo": 19.55,
+        "precio": 25.79,
+        "image": "img\/productos\/2aceb70f164d8bdbfe6cffacd916579d.jpg"
+    },
+    {
+        "id": 885,
+        "descripcion": "TELEFONO CON IDENTIFICADOR DE LLAMADA OHO OHO-5005",
+        "barcode": "6936366693553",
+        "costo": 19.55,
+        "precio": 24.64,
+        "image": "img\/productos\/df7e32d9e9445267b0f2c5d0d17a832d.jpg"
+    },
+    {
+        "id": 886,
+        "descripcion": "INTERCOMUNICADORES BATERIA RL-203",
+        "barcode": "N\/A",
+        "costo": 18.4,
+        "precio": 23.46,
+        "image": "img\/productos\/8b3739daf0a04aed015c4477cdb0f956.jpg"
+    },
+    {
+        "id": 887,
+        "descripcion": "INTERCOMUNICADORES CON TOMA CORRIENTE RL-204",
+        "barcode": "N\/A",
+        "costo": 23,
+        "precio": 28.18,
+        "image": "img\/productos\/e1c952823ef363652caaf0d15245fd95.jpg"
+    },
+    {
+        "id": 891,
+        "descripcion": "EXTENSION ELECTRICA TROEN 6M CON REGLETA",
+        "barcode": "7453078546254",
+        "costo": 7.475,
+        "precio": 9.39,
+        "image": "img\/productos\/dad2fd6298e6fa00db3a4b56de28aaf6.jpg"
+    },
+    {
+        "id": 892,
+        "descripcion": "CINTA METRICA APOLO 5M APCM-5M",
+        "barcode": "N\/A",
+        "costo": 1.495,
+        "precio": 3.49,
+        "image": "img\/productos\/3b69c27e62e45844fae501431f5507b5.jpg"
+    },
+    {
+        "id": 895,
+        "descripcion": "CABLE V8 BLANCO ESTUCHE",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 1.17,
+        "image": "img\/productos\/1a1b5d602f6054047532e0b13589b91a.jpg"
+    },
+    {
+        "id": 897,
+        "descripcion": "EXTENSION ELECTRICA TROEN 4M",
+        "barcode": "7453038488082",
+        "costo": 4.025,
+        "precio": 6.43,
+        "image": "img\/productos\/2c8ee361ce40cb025554613dcfbc8d34.jpg"
+    },
+    {
+        "id": 898,
+        "descripcion": "EXTENSION ELECTRICA TROEN 15M",
+        "barcode": "7453038488129",
+        "costo": 10.35,
+        "precio": 14.06,
+        "image": "img\/productos\/5985ab8fbb757dbb3105f9a761f701a8.jpg"
+    },
+    {
+        "id": 899,
+        "descripcion": "EXTENSION ELECTRICA BLANCA DIESEL TOOLS 25FT DT-25FT-BH",
+        "barcode": "6987021104389",
+        "costo": 4.6,
+        "precio": 6.44,
+        "image": "img\/productos\/2a288bd0b06f74b0043f99cac66736bc.jpg"
+    },
+    {
+        "id": 900,
+        "descripcion": "BOCINA MEDIANA MS-197BT",
+        "barcode": "8899145010904",
+        "costo": 20.24,
+        "precio": 24.65,
+        "image": ""
+    },
+    {
+        "id": 901,
+        "descripcion": "CEPILLO K-DENT DURO",
+        "barcode": "759364010087",
+        "costo": 4.002,
+        "precio": 4.7,
+        "image": "img\/productos\/3d9d6ccc15c019f9dab4cbacf4a9e523.jpg"
+    },
+    {
+        "id": 902,
+        "descripcion": "LAMPARA BATERIA SS-Q959",
+        "barcode": "6941507409191",
+        "costo": 1.909,
+        "precio": 2.35,
+        "image": ""
+    },
+    {
+        "id": 903,
+        "descripcion": "LAMPARA BATERIA BJ-127",
+        "barcode": "N\/A",
+        "costo": 1.633,
+        "precio": 1.76,
+        "image": ""
+    },
+    {
+        "id": 904,
+        "descripcion": "TIRRO BLANCO ABRO",
+        "barcode": "250777001018",
+        "costo": 0.575,
+        "precio": 0.81,
+        "image": "img\/productos\/b0d189383796965cebac552384a5f537.jpg"
+    },
+    {
+        "id": 905,
+        "descripcion": "PANEL CIRCULAR 15W",
+        "barcode": "N\/A",
+        "costo": 10.925,
+        "precio": 11.2,
+        "image": ""
+    },
+    {
+        "id": 906,
+        "descripcion": "TOMA MACHO SEMI INDUSTRIAL SUEA039",
+        "barcode": "250777002",
+        "costo": 0.391,
+        "precio": 1.16,
+        "image": "img\/productos\/20641dcb2e856d32520fe7cb7434585d.jpg"
+    },
+    {
+        "id": 907,
+        "descripcion": "TOMA HEMBRA SEMI INDUSTRIAL SUEA040",
+        "barcode": "74011811900227",
+        "costo": 0.736,
+        "precio": 1.17,
+        "image": "img\/productos\/35163afb7b88203b371be4af53eb9475.jpg"
+    },
+    {
+        "id": 908,
+        "descripcion": "RADIO SONAKI EV-R158AD",
+        "barcode": "N\/A",
+        "costo": 14.95,
+        "precio": 16.47,
+        "image": ""
+    },
+    {
+        "id": 909,
+        "descripcion": "RADIO SONAKI EV-R159AD",
+        "barcode": "N\/A",
+        "costo": 14.95,
+        "precio": 16.47,
+        "image": ""
+    },
+    {
+        "id": 910,
+        "descripcion": "RADIO SONAKI EV-R8134",
+        "barcode": "N\/A",
+        "costo": 14.95,
+        "precio": 18.77,
+        "image": ""
+    },
+    {
+        "id": 913,
+        "descripcion": "TIRRO TRANSPARENTE",
+        "barcode": "N\/A",
+        "costo": 0.805,
+        "precio": 1.17,
+        "image": "img\/productos\/eb729d06ca016e5a4535f61162215d2f.jpg"
+    },
+    {
+        "id": 914,
+        "descripcion": "LAMPARA MINI METALICA",
+        "barcode": "N\/A",
+        "costo": 3.45,
+        "precio": 4.69,
+        "image": "img\/productos\/126c3a35b6db9bc2897725fa27e263bb.jpg"
+    },
+    {
+        "id": 916,
+        "descripcion": "PIEDRA LIMA IMACASA",
+        "barcode": "N\/A",
+        "costo": 2.024,
+        "precio": 2.35,
+        "image": ""
+    },
+    {
+        "id": 919,
+        "descripcion": "LUZ XENON LED 10789-C1",
+        "barcode": "N\/A",
+        "costo": 20.7,
+        "precio": 27.43,
+        "image": "img\/productos\/6330d1e7b39ef59406ac924973888287.jpg"
+    },
+    {
+        "id": 921,
+        "descripcion": "BASTON PARA CARRO",
+        "barcode": "N\/A",
+        "costo": 12.42,
+        "precio": 17.56,
+        "image": "img\/productos\/718af38c8f29347dc0863fef94adf4de.jpg"
+    },
+    {
+        "id": 922,
+        "descripcion": "EXTENSION ELECTRICA TROEN 10M CON REGLETA",
+        "barcode": "7453078546278",
+        "costo": 10.35,
+        "precio": 13.48,
+        "image": "img\/productos\/88a7f3798817387722c7b5951de2a4e0.jpg"
+    },
+    {
+        "id": 925,
+        "descripcion": "LAMPARA DE FRENTE APLI002",
+        "barcode": "6932623210020",
+        "costo": 2.07,
+        "precio": 2.35,
+        "image": "img\/productos\/12231ef6d09ccd2b789555c7c254a196.jpg"
+    },
+    {
+        "id": 926,
+        "descripcion": "TIJERA TELA SENIOR 8\/12 AYLIN-TJ-00039",
+        "barcode": "250777000394",
+        "costo": 1.495,
+        "precio": 1.76,
+        "image": "img\/productos\/e3b5695b7db2c89b3619baf9602082a3.jpg"
+    },
+    {
+        "id": 927,
+        "descripcion": "TIRRO TRANSPARENTE ABRO 30 YARDAS",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 1.18,
+        "image": "img\/productos\/bc323935c0a85383bbe195539f35a760.jpg"
+    },
+    {
+        "id": 928,
+        "descripcion": "BOCINA 190BT BC12-01",
+        "barcode": "N\/A",
+        "costo": 32.2,
+        "precio": 39.9,
+        "image": "img\/productos\/ae86b1dc851c296aa27a3ff438c70163.jpg"
+    },
+    {
+        "id": 929,
+        "descripcion": "BOCINA 191BT BC12-02",
+        "barcode": "N\/A",
+        "costo": 32.2,
+        "precio": 39.9,
+        "image": "img\/productos\/945882887023efefe5b3b7ffd92f01ca.jpg"
+    },
+    {
+        "id": 930,
+        "descripcion": "BOCINA PORTABLE SPEAKER KTS-118A",
+        "barcode": "N\/A",
+        "costo": 17.25,
+        "precio": 22.28,
+        "image": "img\/productos\/7fb9af798ada9cd23d72fa5a16136302.jpg"
+    },
+    {
+        "id": 932,
+        "descripcion": "LAMPARA RECARGABLE APOLO APLI003",
+        "barcode": "6920490788278",
+        "costo": 1.725,
+        "precio": 2.58,
+        "image": "img\/productos\/05fb0d6327a3d0eafc4e61c696e2c34b.jpg"
+    },
+    {
+        "id": 933,
+        "descripcion": "TOMA DOBLE POLARIZADO SUPERFICIAL SUSAN SUEA014",
+        "barcode": "N\/A",
+        "costo": 0.943,
+        "precio": 1.75,
+        "image": "img\/productos\/a86eb560d1ba549a5b01018e1bcb5f55.jpg"
+    },
+    {
+        "id": 935,
+        "descripcion": "LAMPARA DE FRENTE RECARGABLE LI018",
+        "barcode": "N\/A",
+        "costo": 2.3,
+        "precio": 2.36,
+        "image": "img\/productos\/8f877317a66d3135b0ebf943af2fe486.jpg"
+    },
+    {
+        "id": 936,
+        "descripcion": "LAMPARA RECARGABLE AB-A8",
+        "barcode": "6941507400617",
+        "costo": 1.84,
+        "precio": 2,
+        "image": "img\/productos\/162d57a0fc5757f0ed329d172612fd44.jpg"
+    },
+    {
+        "id": 937,
+        "descripcion": "FOCO APOLO 15W BLISTER APAH-002",
+        "barcode": "7501206670156",
+        "costo": 1.725,
+        "precio": 2.34,
+        "image": "img\/productos\/4761216bba3ad42f888cbc4869643e61.jpg"
+    },
+    {
+        "id": 938,
+        "descripcion": "LAMPARA APOLO RECARGABLE APLI004",
+        "barcode": "6939020458727",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": "img\/productos\/cd6ea4ebda0ae40f47df849a44b537d8.jpg"
+    },
+    {
+        "id": 941,
+        "descripcion": "FOCO APOLO LED EMERGENCIA 7W",
+        "barcode": "7501206720028",
+        "costo": 4.83,
+        "precio": 6.45,
+        "image": "img\/productos\/d31642a53fe52808fefcaa17ff6d4170.jpg"
+    },
+    {
+        "id": 942,
+        "descripcion": "FOCO APOLO LED EMERGENCIA 5W APBE001",
+        "barcode": "7501206720011",
+        "costo": 4.485,
+        "precio": 5.86,
+        "image": "img\/productos\/04cc5bb105fcd91958e412b1fc0036ec.jpg"
+    },
+    {
+        "id": 943,
+        "descripcion": "VENTILADOR USB RECARGABLE",
+        "barcode": "4974680032384",
+        "costo": 2.3,
+        "precio": 4.66,
+        "image": "img\/productos\/26b036c180e47e9ebd42cb5f28c25149.jpg"
+    },
+    {
+        "id": 944,
+        "descripcion": "FOCO DISCO APLD-01",
+        "barcode": "7501449801256",
+        "costo": 3.22,
+        "precio": 3.53,
+        "image": "img\/productos\/d653e18fef8ef5583279c4a019e49f07.jpg"
+    },
+    {
+        "id": 945,
+        "descripcion": "PLANCHA ASTOR SM-77",
+        "barcode": "6951789500776",
+        "costo": 13.8,
+        "precio": 17.6,
+        "image": "img\/productos\/aacf6fb08ef33fbfa68b5ec33d31eae0.jpg"
+    },
+    {
+        "id": 946,
+        "descripcion": "LICUADORA 3B",
+        "barcode": "4976790310895",
+        "costo": 22.701,
+        "precio": 28.17,
+        "image": "img\/productos\/974aad12b902d068b6ca6dda82e26a9b.jpg"
+    },
+    {
+        "id": 947,
+        "descripcion": "RADIO SONAKI EV-R8138",
+        "barcode": "N\/A",
+        "costo": 11.5,
+        "precio": 12.94,
+        "image": ""
+    },
+    {
+        "id": 948,
+        "descripcion": "MS-199BT",
+        "barcode": "N\/A",
+        "costo": 21.85,
+        "precio": 27,
+        "image": ""
+    },
+    {
+        "id": 949,
+        "descripcion": "AUDIFONO MUSIC \/CAJA INDIVIDUAL\/",
+        "barcode": "N\/A",
+        "costo": 1.909,
+        "precio": 2.35,
+        "image": ""
+    },
+    {
+        "id": 951,
+        "descripcion": "RASTRILLO",
+        "barcode": "N\/A",
+        "costo": 4.255,
+        "precio": 5.28,
+        "image": ""
+    },
+    {
+        "id": 954,
+        "descripcion": "RELOJ NI\u00d1O EN BOLSA",
+        "barcode": "N\/A",
+        "costo": 0.805,
+        "precio": 1.06,
+        "image": ""
+    },
+    {
+        "id": 955,
+        "descripcion": "RELOJ ADULTO EN BOLSA",
+        "barcode": "N\/A",
+        "costo": 0.805,
+        "precio": 1.06,
+        "image": ""
+    },
+    {
+        "id": 963,
+        "descripcion": "BARITA COLORES 068-2A",
+        "barcode": "N\/A",
+        "costo": 11.04,
+        "precio": 14.08,
+        "image": "img\/productos\/d4bbaf912f32d5eafce341c7e9de7992.jpg"
+    },
+    {
+        "id": 964,
+        "descripcion": "BARITA COLORES ESTRELLA 068-14",
+        "barcode": "N\/A",
+        "costo": 12.42,
+        "precio": 16.41,
+        "image": "img\/productos\/c0beec962b54d1f77a194d796b2e4ae3.jpg"
+    },
+    {
+        "id": 965,
+        "descripcion": "DIADEMA CON LUZ MICKEY 068-13",
+        "barcode": "N\/A",
+        "costo": 16.56,
+        "precio": 21.11,
+        "image": "img\/productos\/b00b5389c2c0c5924234081980af2072.jpg"
+    },
+    {
+        "id": 966,
+        "descripcion": "CARGADOR V8 CELL HOUSE CAJA AYLIN-CBL-00094",
+        "barcode": "250777000943",
+        "costo": 2.07,
+        "precio": 2.93,
+        "image": "img\/productos\/34054cfd66098905c51bd8841838b3b6.jpg"
+    },
+    {
+        "id": 967,
+        "descripcion": "TIJERA BARATA",
+        "barcode": "N\/A",
+        "costo": 0.276,
+        "precio": 0.37,
+        "image": "img\/productos\/5ed1c8bd644244e555100ba1e1333254.jpg"
+    },
+    {
+        "id": 969,
+        "descripcion": "JUGUETE MOTOCICLETA TOYS BB-05-F68",
+        "barcode": "6900614247775",
+        "costo": 1.265,
+        "precio": 2.33,
+        "image": "img\/productos\/51eec4a30ce7271b1d807f2ce2686c2a.jpg"
+    },
+    {
+        "id": 974,
+        "descripcion": "POWER CAR BB-05-A14",
+        "barcode": "6900904363697",
+        "costo": 2.07,
+        "precio": 2.7,
+        "image": ""
+    },
+    {
+        "id": 975,
+        "descripcion": "MOTO RCYCLE BB-05-C12",
+        "barcode": "6900709363854",
+        "costo": 2.185,
+        "precio": 2.93,
+        "image": ""
+    },
+    {
+        "id": 976,
+        "descripcion": "SPRINT MOTO CUATRO MOTOS BB-05-C16",
+        "barcode": "6900709364042",
+        "costo": 2.875,
+        "precio": 3.75,
+        "image": ""
+    },
+    {
+        "id": 977,
+        "descripcion": "CARRO CAR 95 BB-05-C43",
+        "barcode": "6900709080294",
+        "costo": 2.185,
+        "precio": 2.58,
+        "image": ""
+    },
+    {
+        "id": 979,
+        "descripcion": "LOVELY HOUSE CASITA JUGUETE BB-05-A47",
+        "barcode": "6900690008222",
+        "costo": 1.84,
+        "precio": 2.35,
+        "image": "img\/productos\/f227e347bba6fd43fef067108c109bde.jpg"
+    },
+    {
+        "id": 980,
+        "descripcion": "CARRITO BOLSA BB-05-C28",
+        "barcode": "6900709363793",
+        "costo": 1.61,
+        "precio": 2.11,
+        "image": ""
+    },
+    {
+        "id": 983,
+        "descripcion": "HAPPY BABY",
+        "barcode": "N\/A",
+        "costo": 0.69,
+        "precio": 1.18,
+        "image": ""
+    },
+    {
+        "id": 988,
+        "descripcion": "CARRO FAST DRIFT CON CONTROL",
+        "barcode": "N\/A",
+        "costo": 13.225,
+        "precio": 15.28,
+        "image": ""
+    },
+    {
+        "id": 989,
+        "descripcion": "CARRO GRANDE CON CONTROL CQ-222-24",
+        "barcode": "455770502086",
+        "costo": 21.045,
+        "precio": 23.53,
+        "image": "img\/productos\/f31895abd8690995ed1a6e7295479474.jpg"
+    },
+    {
+        "id": 990,
+        "descripcion": "CARRO POLICIA CON CONTROL",
+        "barcode": "N\/A",
+        "costo": 15.18,
+        "precio": 16.48,
+        "image": ""
+    },
+    {
+        "id": 991,
+        "descripcion": "SINCRONIZADOR BLUETOOTH FM AYLIN-CONTROL-00061",
+        "barcode": "250777000615",
+        "costo": 6.9,
+        "precio": 15.11,
+        "image": ""
+    },
+    {
+        "id": 993,
+        "descripcion": "LAMPARA DE BATERIA HX-938",
+        "barcode": "N\/A",
+        "costo": 1.242,
+        "precio": 1.55,
+        "image": "img\/productos\/984afca35b2724e6c8cbfab9a91091a0.jpg"
+    },
+    {
+        "id": 994,
+        "descripcion": "LAMPARA DE BATERIA HL-8512",
+        "barcode": "N\/A",
+        "costo": 1.15,
+        "precio": 1.55,
+        "image": "img\/productos\/8d0564d22d4e91e3385313803d1f57f4.jpg"
+    },
+    {
+        "id": 995,
+        "descripcion": "VENTILADOR GRANDE PLASTICO",
+        "barcode": "N\/A",
+        "costo": 32.2,
+        "precio": 39.91,
+        "image": "img\/productos\/f45a78141b225b1c447343808ec6d8ad.jpg"
+    },
+    {
+        "id": 996,
+        "descripcion": "MANZANA YOYO CON LUZ",
+        "barcode": "N\/A",
+        "costo": 1.104,
+        "precio": 1.55,
+        "image": ""
+    },
+    {
+        "id": 997,
+        "descripcion": "LAMPARA POLICIAL 98626",
+        "barcode": "6916885986268",
+        "costo": 9.062,
+        "precio": 12.88,
+        "image": "img\/productos\/57dcdd683577146e5cb25a773a845900.jpg"
+    }
+]
