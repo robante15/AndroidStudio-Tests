@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VolleyMySQL.iml" filepath="$PROJECT_DIR$/VolleyMySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductosLocalOnline.iml" filepath="$PROJECT_DIR$/ProductosLocalOnline.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
